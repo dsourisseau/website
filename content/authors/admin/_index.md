@@ -1,8 +1,9 @@
 ---
-title: Delphine Sourisseau
-role: PhD Earth Sciences
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Dr. Delphine R. N. SOURISSEAU
+role: PhD in Earth Sciences
+avatar_filename: https://scontent.fmlm1-1.fna.fbcdn.net/v/t31.18172-8/26063654_10213101956896153_6742823389416746516_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=jK6po6Sk-s4AX-uvGtN&_nc_ht=scontent.fmlm1-1.fna&oh=19c393283008b03549d6abe0126e21d4&oe=608D9AC4
+bio: My research interests include physical volcanology, and
+  tephro-stratigraphy/chronology.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -24,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Autonomous University of Mexico (UNAM)
+    url: https://www.igum.geofisica.unam.mx/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -41,9 +42,16 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+## CURRENT RESEARCH
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Description of the characteristics, stratigraphic order, and distribution of the pyroclastic deposits emplaced after the collapse of the La Primavera caldera ~95 ka using field descriptions and laboratory analyses including granulometry, componentry, pumice whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. Use of the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of the Primavera volcanic complex. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+## RESEARCH INTERESTS
+
+1. Description and correlation of tephras from terrestrial, lacustrine, alluvial and marine depositional settings (IODP expeditions, etc) with their sources volcanoes using componentry, in-situ geochemistry, radiometric datings, and statistical methods. 
+2. Description of plinian to subplinian eruptions to quantify their eruptive parameters (tephra DRE volume, plume height, wind direction and speed, eruption magnitude, intensity, VEI, etc). 
+3. Use of radiometric dating methods, geochemistry analyses, and relations between pyroclastic deposits and lavas to decipher the evolution of volcanic complex.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
