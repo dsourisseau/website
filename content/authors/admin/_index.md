@@ -5,9 +5,12 @@ avatar_filename: https://scontent.fmlm1-1.fna.fbcdn.net/v/t31.18172-8/26063654_1
 bio: My research interests include physical volcanology, and
   tephro-stratigraphy/chronology.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Physical volcanology
+  - Plinian eruptions
+  - Volcanic stratigraphy
+  - Caldera evolution
+  - Tephrochronology
+  - Geochemistry
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,28 +20,29 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=fr&authuser=3&user=6fCSTU4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: researchgate
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Delphine-Sourisseau
 organizations:
-  - name: National Autonomous University of Mexico (UNAM)
+  - name: National Autonomous University of Mexico (UNAM), Geophysic Institute
+      Morelia Unit
     url: https://www.igum.geofisica.unam.mx/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Earth Sciences
+      institution: National Autonomous University of Mexico (UNAM)
+      year: 2021
+    - course: MS in Earth Sciences, Magmas and Volcanoes Specialty
+      institution: Blaise Pascal University (UBP)
+      year: 2013
+    - course: BS in Earth Sciences
+      institution: Blaise Pascal University (UBP)
+      year: 2011
+email: d.sourisseau@igeofisica.unam.mx
 superuser: true
 highlight_name: false
 ---
