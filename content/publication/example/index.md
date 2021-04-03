@@ -1,79 +1,68 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: La Primavera caldera is a Quaternary rhyolitic volcanic field located
+  in the western part of the Trans-Mexican-Volcanic-Belt (TMVB). The caldera
+  forming eruption of La Primavera occurred ~95 ka with the emplacement of the
+  Tala ignimbrite. Here, we present a new stratigraphy and evolution of the
+  post-caldera activity based on intense fieldwork, correlation of deposits, and
+  ten 230Th/U geochronology dates in zircons. The collapse produced an 11-km
+  wide caldera followed by the formation of an intra-caldera lake. After the
+  caldera collapse, several rhyolitic domes were extruded, inside and outside
+  the caldera ring-fault until 26.8 ka. The first post-caldera pyroclastic event
+  took place 86.4 ka with the eruption that emplaced the Giant Pumice (GP)
+  followed by the occurrence of at least fourteen pyroclastic units (UA to UN).
+  The intra-caldera explosive activity came from the central resurgent Nejahuete
+  composite dome with the deposition of the GP and A to D units between 86.4 and
+  71.5 ka. The extra-caldera explosive activity came from the San Miguel,
+  Planillas and Tajo volcanic centers with the deposition of the E to N units
+  inside the caldera and south of the caldera ring fault between 71.5 and 26.8
+  ka. Three eruptions were originated at San Miguel volcanic center between 71.5
+  and 60.3 ka (units E, G and H) and six eruptions dated between 68.9 and 44.7
+  ka were originated at Planillas volcanic center (units F, I, J, K, L and M).
+  The last eruption of the caldera occurred between 44.7 and 26.8 ka at the Tajo
+  volcanic center (UN). The eruptions appear as pyroclastic successions
+  interbedded with lake deposits (units GP and A-B) and as subaerial deposits
+  separated by paleosols or lahar deposits (units C-M). The revised stratigraphy
+  indicates that the caldera resurgence occurred right after the caldera
+  collapse 93.8 ka and continued until 75.8 ka. This new pyroclastic
+  stratigraphy provides key information on the post-caldera evolution of La
+  Primavera.
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Sourisseau D.
+  - Macias J.L.
+  - Garcia Tenorio F.
+  - Ramón Avellan D.
+  - Saucedo Girón R.
+  - Bernal J.P.
+  - Arce Saldaña J.L.
+  - Tinoco Murillo Z.
+author_notes: []
+publication: Journal of South American Earth Sciences
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Stratigraphy and geochronology of the post-caldera explosive volcanism of
+  the La Primavera Volcanic Complex, Mexico
+doi: https://doi.org/10.1016/j.jsames.2020.102747
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects:
+  - example
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2021-04-03T03:53:11.946Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
