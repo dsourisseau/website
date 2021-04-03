@@ -23,7 +23,7 @@ social:
     link: https://scholar.google.com/citations?hl=fr&authuser=3&user=6fCSTU4AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dsourisseau
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Delphine-Sourisseau
