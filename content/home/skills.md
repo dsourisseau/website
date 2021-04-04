@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: ""
-  icon: images/logo_matlab.jpg
+  icon: "matlab"
   icon_pack: "custom"
   name: "Matlab"
 
@@ -27,7 +27,7 @@ feature:
   name: "Python"
 
 - description: ""
-  icon: images/logo_latex.png
+  icon: "latex"
   icon_pack: "custom"
   name: "Latex"
 
@@ -37,7 +37,7 @@ feature:
   description: ""
 
 - description: ""
-  icon: images/logo_coreldraw.png
+  icon: "corel"
   icon_pack: "custom"
   name: "CorelDraw"
 

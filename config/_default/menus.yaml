@@ -9,22 +9,19 @@ main:
     weight: 10
   - name: Skills
     url: '#skills'
-    weight: 20
+    weight: 30
   - name: Experience
     url: '#experience'
-    weight: 30
+    weight: 20
   - name: Publications
     url: '#featured'
-    weight: 40
+    weight: 60
   - name: Courses and Workshops
     url: '#workshops'
-    weight: 50
-  - name: Projects
-    url: '#projects'
-    weight: 60
+    weight: 40
   - name: Abstracts in Conferences
     url: '#conferences'
-    weight: 70
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 80
