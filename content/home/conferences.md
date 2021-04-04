@@ -39,7 +39,7 @@ item:
   description: "**Conference** - Plinian eruptions associated to the post-caldera activity of the La Primavera, Jalisco."
   organization: Morelia, MEXICO
   organization_url: ""
-  title: XXVI National Chemistry Conference.
+  title: XXVI National Chemistry Conference
   url: ""
 
 - certificate_url: ""

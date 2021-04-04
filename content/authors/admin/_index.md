@@ -30,14 +30,14 @@ organizations:
     url: https://www.igum.geofisica.unam.mx/
 education:
   courses:
-    - course: PhD in Earth Sciences
+    - course: Ph.D. in Earth Sciences
       institution: National Autonomous University of Mexico (UNAM)
       year: present
-    - course: MS in Earth Sciences, Magmas and Volcanoes Specialty
-      institution: Blaise Pascal University (UBP)
+    - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
+      institution: Clermont Auvergne University (UCA) - Magmas and Volcanoes Laboratory (LMV)
       year: 2013
-    - course: BS in Earth Sciences
-      institution: Blaise Pascal University (UBP)
+    - course: B.Sc. in Earth Sciences
+      institution: Clermont Auvergne University (UCA)
       year: 2011
 email: d.sourisseau@igeofisica.unam.mx
 superuser: true
@@ -45,18 +45,18 @@ highlight_name: false
 ---
 ## CURRENT INVESTIGATION
 <div style="text-align: justify"> 
-Description of the pyroclastic deposits emplaced after the formation of La Primavera caldera ~95 ka using field descriptions and laboratory analyses including granulometry, componentry, pumice whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. Use of the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of the Primavera volcanic complex. 
+Description of the pyroclastic deposits emplaced after the formation of La Primavera caldera ~95 ka using field descriptions and laboratory analyses including granulometry, componentry, pumice whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. Use of the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of La Primavera volcanic complex. 
 </div>
 <br /> 
 
 ## RESEARCH INTERESTS
 
-1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial and marine depositional settings (IODP expeditions, etc) with their  proximal deposits and sources volcanoes using componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br />
+1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes using field descriptions, componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br />
 
-2. <div style="text-align: justify"> Use of tephras from lacustrine, and marine depositional settings (IODP expeditions, etc) to constrain the age of past climatic events using componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br /> 
+2. <div style="text-align: justify"> Use of tephras from lacustrine, marine, and glacial depositional settings to constrain the age of past climatic events using componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br /> 
 
-3. <div style="text-align: justify"> Description of plinian to subplinian eruptions to quantify their eruptive parameters (tephra DRE volume, plume height, wind direction and speed, eruption magnitude, intensity, VEI, etc).</div> <br /> 
+3. <div style="text-align: justify"> Reconstruction and quantification of the physical properties from plinian and subplinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </div> <br /> 
 
-4. <div style="text-align: justify"> Use of radiometric dating methods, geochemistry analyses, and relations between pyroclastic deposits and lavas to decipher the evolution of volcanic complex.</div>
+4. <div style="text-align: justify"> Reconstruction of volcanic histories using field descriptions, grain size/shape and componentry analyses, relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_DELPHINE_SOURISSEAU_ENGLISH.pdf" "newtab" >}}resumé{{< /staticref >}}.

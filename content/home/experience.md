@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Ph.D in Earth Sciences
+  - title: Ph.D. in Earth Sciences
     company: National Autonomous University of Mexico (UNAM), Geophysic Institute Morelia Unit (IGUM)
-    company_url: ''
+    company_url: 'http://igum.geofisica.unam.mx'
     location: Morelia, MEXICO
     date_start: '2015-08-01'
-    date_end: '2021-04-30'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -39,8 +39,8 @@ experience:
         
         
   - title: M.Sc. in Earth Sciences, with Magmas and Volcanoes specialty
-    company: Blaise Pascal University (UBP)
-    company_url: ''
+    company: Clermont Auvergne University (UCA), Magmas and Volcanoes Laboratory (LMV)
+    company_url: 'https://lmv.uca.fr/en/'
     location: Clermont-Ferrand, FRANCE
     date_start: '2011-09-01'
     date_end: '2013-06-30'
@@ -51,8 +51,8 @@ experience:
         * Whole-rock and in-situ geochemical analyses
 
   - title: B.Sc. in Earth Sciences
-    company: Blaise Pascal University (UBP)
-    company_url: ''
+    company: Clermont Auvergne University (UCA)
+    company_url: 'https://ecole.opgc.uca.fr/'
     location: Clermont-Ferrand, FRANCE
     date_start: '2010-09-01'
     date_end: '2011-06-30'
@@ -60,7 +60,7 @@ experience:
 
   - title: A.Sc. in Earth Sciences
     company: University of Pau and Pays de l'Adour (UPPA)
-    company_url: ''
+    company_url: 'https://www.univ-pau.fr/en/home.html'
     location: Pau, FRANCE
     date_start: '2008-09-01'
     date_end: '2010-06-30'
