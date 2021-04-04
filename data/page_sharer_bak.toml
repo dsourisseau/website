@@ -31,7 +31,7 @@
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "whatsapp"
@@ -42,11 +42,11 @@
   enable = true
 
 [[buttons]]
-  id = "telegram"
-  url = "https://t.me/share/url?url={url}&text={title}"
-  title = "Telegram"
+  id = "weibo"
+  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
+  title = "Weibo"
   icon_pack = "fab"
-  icon = "telegram-plane"
+  icon = "weibo"
   enable = true
 
 [[buttons]]

@@ -6,7 +6,7 @@ url_pdf: "Sourisseauetal.2020_FINAL_VERSION.pdf"
 publication_types:
   - "2"
 authors:
-  - Sourisseau D.
+  - admin
   - Macias J.L.
   - Garcia Tenorio F.
   - Ramón Avellan D.
@@ -28,7 +28,6 @@ doi: https://doi.org/10.1016/j.jsames.2020.102747
 featured: true
 tags: []
 projects:
-  - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
