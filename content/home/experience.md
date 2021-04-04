@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -21,25 +21,48 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Ph.D in Earth Sciences
+    company: National Autonomous University of Mexico (UNAM), Geophysic Institute Morelia Unit (IGUM)
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Morelia, MEXICO
+    date_start: '2015-08-01'
+    date_end: '2021-04-30'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Description and correlation of plinian and subplinian pyroclastic deposits
+        * Grain size, grain shape, and componentry analyses
+        * Whole-rock and in-situ geochemical analyses
+        * 230Th/U, C14, and Ar/Ar radiometric datings
         
-  - title: Professor
-    company: University X
+        
+  - title: M.Sc. in Earth Sciences, with Magmas and Volcanoes specialty
+    company: Blaise Pascal University (UBP)
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Clermont-Ferrand, FRANCE
+    date_start: '2011-09-01'
+    date_end: '2013-06-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Description of dredged lava samples collected around the Reunion Island
+        * Whole-rock and in-situ geochemical analyses
+
+  - title: B.Sc. in Earth Sciences
+    company: Blaise Pascal University (UBP)
+    company_url: ''
+    location: Clermont-Ferrand, FRANCE
+    date_start: '2010-09-01'
+    date_end: '2011-06-30'
+    description: ''
+
+  - title: A.Sc. in Earth Sciences
+    company: University of Pau and Pays de l'Adour (UPPA)
+    company_url: ''
+    location: Pau, FRANCE
+    date_start: '2008-09-01'
+    date_end: '2010-06-30'
+    description: ''
 ---
