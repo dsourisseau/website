@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Delphine Sourisseau' # Website name
-baseurl: '' # Website URL
+baseurl: 'dsourisseau.com' # Website URL
 copyright: '© {year} Delphine Sourisseau' # Footer text, e.g. '© {year} Me'
 
 ############################
