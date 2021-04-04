@@ -45,7 +45,7 @@ highlight_name: false
 ---
 ## CURRENT INVESTIGATION
 <div style="text-align: justify"> 
-Description of the pyroclastic deposits emplaced after the formation of La Primavera caldera ~95 ka using field descriptions and laboratory analyses including granulometry, componentry, pumice whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. Use of the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of the Primavera volcanic complex. 
+Description of the pyroclastic deposits emplaced after the formation of La Primavera caldera ~95 ka using field descriptions and laboratory analyses including granulometry, componentry, pumice whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. Use of the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of La Primavera volcanic complex. 
 </div>
 <br /> 
 
