@@ -51,12 +51,12 @@ Description of the pyroclastic deposits emplaced after the formation of La Prima
 
 ## RESEARCH INTERESTS
 
-1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial and marine depositional settings (IODP expeditions, etc) with their  proximal deposits and sources volcanoes using componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br />
+1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes using field descriptions, componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br />
 
-2. <div style="text-align: justify"> Use of tephras from lacustrine, and marine depositional settings (IODP expeditions, etc) to constrain the age of past climatic events using componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br /> 
+2. <div style="text-align: justify"> Use of tephras from lacustrine, marine, and glacial depositional settings to constrain the age of past climatic events using componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br /> 
 
-3. <div style="text-align: justify"> Description of plinian to subplinian eruptions to quantify their eruptive parameters (tephra DRE volume, plume height, wind direction and speed, eruption magnitude, intensity, VEI, etc).</div> <br /> 
+3. <div style="text-align: justify"> Reconstruction and quantification of the physical properties from plinian and subplinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </div> <br /> 
 
-4. <div style="text-align: justify"> Use of radiometric dating methods, geochemistry analyses, and relations between pyroclastic deposits and lavas to decipher the evolution of volcanic complex.</div>
+4. <div style="text-align: justify"> Reconstruction of volcanic histories using field descriptions, grain size/shape and componentry analyses, relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_DELPHINE_SOURISSEAU_ENGLISH.pdf" "newtab" >}}resumé{{< /staticref >}}.
