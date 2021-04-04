@@ -29,7 +29,7 @@ featured: true
 tags: []
 projects:
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image: La Primavera, Jalisco, México"
   focal_point: ""
   preview_only: false
 date: 2020-07-03
