@@ -49,7 +49,7 @@ item:
   organization: Portland, U.S.A
   organization_url: ""
   title: IAVCEI 2017
-  url: ""
+  url: "/media/Poster_Portland.pdf"
 
 - certificate_url: ""
   date_end: ""
@@ -58,6 +58,10 @@ item:
   organization: Napoly, ITALY
   organization_url: ""
   title: Cities on Volcanoes 10
+<<<<<<< Updated upstream
   url: "/media/budapest.jpg"
+=======
+  url: "/media/POSTER_CITIES_ON_VOLCANOES.pdf"
+>>>>>>> Stashed changes
 
 ---
