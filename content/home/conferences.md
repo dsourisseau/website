@@ -58,6 +58,6 @@ item:
   organization: Napoly, ITALY
   organization_url: ""
   title: Cities on Volcanoes 10
-  url: ""
+  url: "/media/budapest.jpg"
 
 ---
