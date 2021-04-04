@@ -31,11 +31,11 @@ feature:
   icon_pack: "custom"
   name: "Latex"
 
-- icon: "arcgis"
+- description: ""
+  icon: "arcgis"
   icon_pack: "custom"
   name: "ArcGIS"
-  description: ""
-
+  
 - description: ""
   icon: "corel"
   icon_pack: "custom"
