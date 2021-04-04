@@ -30,14 +30,14 @@ organizations:
     url: https://www.igum.geofisica.unam.mx/
 education:
   courses:
-    - course: PhD in Earth Sciences
+    - course: Ph.D. in Earth Sciences
       institution: National Autonomous University of Mexico (UNAM)
       year: present
-    - course: MS in Earth Sciences, Magmas and Volcanoes Specialty
-      institution: Blaise Pascal University (UBP)
+    - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
+      institution: Clermont Auvergne University (UCA) - Magmas and Volcanoes Laboratory (LMV)
       year: 2013
-    - course: BS in Earth Sciences
-      institution: Blaise Pascal University (UBP)
+    - course: B.Sc. in Earth Sciences
+      institution: Clermont Auvergne University (UCA)
       year: 2011
 email: d.sourisseau@igeofisica.unam.mx
 superuser: true

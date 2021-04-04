@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Ph.D in Earth Sciences
+  - title: Ph.D. in Earth Sciences
     company: National Autonomous University of Mexico (UNAM), Geophysic Institute Morelia Unit (IGUM)
     company_url: 'http://igum.geofisica.unam.mx'
     location: Morelia, MEXICO
