@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Abstracts in conferences'
@@ -49,7 +49,7 @@ item:
   organization: Portland, U.S.A
   organization_url: ""
   title: IAVCEI 2017
-  url: ""
+  url: "/media/Poster_Portland.pdf"
 
 - certificate_url: ""
   date_end: ""
@@ -58,6 +58,6 @@ item:
   organization: Napoly, ITALY
   organization_url: ""
   title: Cities on Volcanoes 10
-  url: "/media/budapest.jpg"
+  url: "/media/POSTER_CITIES_ON_VOLCANOES.pdf"
 
 ---

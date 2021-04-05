@@ -31,7 +31,7 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Earth Sciences
-      institution: National Autonomous University of Mexico (UNAM)
+      institution: National Autonomous University of Mexico (UNAM) - Geophysic Institute Morelia Unit (IGUM)
       year: present
     - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
       institution: Clermont Auvergne University (UCA) - Magmas and Volcanoes Laboratory (LMV)
