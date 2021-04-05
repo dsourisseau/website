@@ -27,7 +27,7 @@ social:
 organizations:
   - name: National Autonomous University of Mexico (UNAM), Geophysic Institute
       Morelia Unit
-    url: https://www.igum.geofisica.unam.mx/
+    url: http://igum.geofisica.unam.mx/
 education:
   courses:
     - course: Ph.D. in Earth Sciences
