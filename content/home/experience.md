@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Description and correlation of plinian and subplinian pyroclastic deposits
-        * Grain size, grain shape, and componentry analyses
+        * Grain size and componentry analyses
         * Whole-rock and in-situ geochemical analyses
         * 230Th/U, C14, and Ar/Ar radiometric datings
         
