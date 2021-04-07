@@ -57,6 +57,6 @@ Description of the pyroclastic deposits emplaced after the formation of La Prima
 
 3. <div style="text-align: justify"> Reconstruction and quantification of the physical properties from plinian and subplinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </div> <br /> 
 
-4. <div style="text-align: justify"> Reconstruction of volcanic histories using field descriptions, grain size/shape and componentry analyses, relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</div>
+4. <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_DELPHINE_SOURISSEAU_ENGLISH.pdf" "newtab" >}}resumé{{< /staticref >}}.
