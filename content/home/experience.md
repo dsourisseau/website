@@ -36,9 +36,18 @@ experience:
         * Grain size and componentry analyses
         * Whole-rock and in-situ geochemical analyses
         * 230Th/U, C14, and Ar/Ar radiometric datings
-        
-        
-  - title: M.Sc. in Earth Sciences, with Magmas and Volcanoes specialty
+       
+       
+  - title: A.Sc. in Foreign languages, literature and civilizations, English specialty
+    company: Clermont Auvergne University (UCA)
+    company_url: 'https://lcc.uca.fr/formation/licence/licence-langues-litteratures-civilisations-etrangeres-et-regionales'
+    location: Clermont-Ferrand, FRANCE
+    date_start: '2013-09-01'
+    date_end: '2014-06-30'
+    description: ''      
+
+
+  - title: M.Sc. in Earth Sciences, Magmas and Volcanoes specialty
     company: Clermont Auvergne University (UCA), Magmas and Volcanoes Laboratory (LMV)
     company_url: 'https://lmv.uca.fr/en/'
     location: Clermont-Ferrand, FRANCE
@@ -58,7 +67,7 @@ experience:
     date_end: '2011-06-30'
     description: ''
 
-  - title: A.Sc. in Earth Sciences
+  - title: A.Sc. in Earth Sciences and Environment
     company: University of Pau and Pays de l'Adour (UPPA)
     company_url: 'https://www.univ-pau.fr/en/home.html'
     location: Pau, FRANCE

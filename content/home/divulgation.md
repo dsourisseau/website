@@ -24,14 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-- certificate_url: ""
-  date_end: ""
-  date_start: "2016-02-19"
-  description: ""
-  organization: Morelia, MEXICO
-  organization_url: ""
-  title: Volcancito - Paseo de las Ciencias
-  url: ""
+#- certificate_url: ""
+#  date_end: ""
+#  date_start: "2016-02-19"
+#  description: ""
+#  organization: Morelia, MEXICO
+#  organization_url: ""
+#  title: Volcancito - Paseo de las Ciencias
+#  url: ""
 
 - certificate_url: ""
   date_end: ""
@@ -53,6 +53,14 @@ item:
 
 
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-02-19"
+  description: ""
+  organization: Morelia, MEXICO
+  organization_url: ""
+  title: 75 Aniversario del Nacimento del Volcan Paricutin
+  url: ""
 
 - certificate_url: ""
   date_end: ""
@@ -62,8 +70,6 @@ item:
   organization_url: ""
   title: Fiesta de las Ciencias y las Humanidades 2018
   url: ""
-
-
 
 
 - certificate_url: ""
@@ -84,14 +90,14 @@ item:
   title: Novena Feria Infantil de Ciencias y Artes
   url: ""
 
-- certificate_url: ""
-  date_end: ""
-  date_start: "2019-06-11"
-  description: ""
-  organization: Morelia, MEXICO
-  organization_url: ""
-  title: Charla "Geofísica en el mundo - cómo los investigadores extrangeros llegaron a México"
-  url: ""
+#- certificate_url: ""
+#  date_end: ""
+#  date_start: "2019-06-11"
+#  description: ""
+#  organization: Morelia, MEXICO
+#  organization_url: ""
+#  title: Charla "Geofísica en el mundo - cómo los investigadores extrangeros llegaron a México"
+#  url: ""
 
 
 
