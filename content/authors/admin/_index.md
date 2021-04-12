@@ -51,9 +51,9 @@ Description of the pyroclastic deposits emplaced after the formation of La Prima
 
 ## RESEARCH INTERESTS
 
-1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes using field descriptions, componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br />
+1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes using field descriptions, componentry, in-situ geochemistry, radiometric datings, and Machine Learning methods.</div><br />
 
-2. <div style="text-align: justify"> Use of tephras from lacustrine, marine, and glacial depositional settings to constrain the age of past climatic events using componentry, in-situ geochemistry, radiometric datings, and statistical methods.</div><br /> 
+2. <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to constrain the age of past climatic events using in-situ geochemistry, radiometric datings, and Machine Learning methods.</div><br /> 
 
 3. <div style="text-align: justify"> Reconstruction and quantification of the physical properties from plinian and subplinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </div> <br /> 
 
