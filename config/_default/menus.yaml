@@ -25,12 +25,15 @@ main:
   - name: Divulgation
     url: '#divulgation'
     weight: 70
+  - name: Other Certifications
+    url: '#certifications'
+    weight: 80
   - name: Gallery
     url: '#gallery'
-    weight: 80
+    weight: 90
   - name: Contact
     url: '#contact'
-    weight: 90
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
