@@ -13,4 +13,4 @@ title: Gallery
 subtitle:
 ---
 
-{{< gallery >}}
+{{< gallery>}}
