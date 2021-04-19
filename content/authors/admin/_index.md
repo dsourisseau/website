@@ -8,6 +8,7 @@ interests:
   - Physical volcanology
   - Volcanic stratigraphy
   - Caldera evolution
+  - Climate changes
  
   - Geochemistry
   - Radiometric datings
@@ -48,19 +49,33 @@ email: d.sourisseau@igeofisica.unam.mx
 superuser: true
 highlight_name: false
 ---
-## CURRENT INVESTIGATION
+
+### ABOUT ME
 <div style="text-align: justify"> 
-Description of the pyroclastic deposits emplaced after the formation of La Primavera caldera ~95 ka using field descriptions and laboratory analyses including granulometry, componentry, pumice whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. Use of the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of La Primavera volcanic complex. 
+I am a french PhD student in volcanology (close to completion) looking for a post-doctoral position in tephrochronology and/or physical volcanology. <br /><br />
+
+My passion for volcanoes began when I discovered the history of Pompei and the 79AD eruption from Mt. Vesuvius when I was 12 years old. After that, I obtained a Licence in Earth Sciences, a Master degree, and a Ph.D. in Earth Sciences with volcanology specialty where I learned the fundamentals of volcanology, geochemistry, petrology, and geochronology. I also learned to use Matlab, Python, and Latex programming languages as complementary tools.
+
+</div>
+<br />
+
+
+### RECENT INVESTIGATION
+<div style="text-align: justify"> 
+During my Ph.D. I described the pyroclastic deposits emplaced after the formation of La Primavera caldera ~95 ka using field descriptions and laboratory analyses including granulometry, componentry, pumice whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. I also used the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of La Primavera volcanic complex. 
 </div>
 <br /> 
 
-## RESEARCH INTERESTS
+### POST-DOC RESEARCH INTERESTS
 
-1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes.</div><br />
+I am looking for a post-doctoral position in the following research topics:
+
+1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes to improve the eruption volume estimations from past explosive events.
+</div><br />
 
 2. <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to constrain the age of past climatic events.</div><br /> 
 
-3. <div style="text-align: justify"> Reconstruction and quantification of the physical properties from plinian and subplinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </div> <br /> 
+3. <div style="text-align: justify"> Reconstruction and quantification of the physical properties from subplinian to ultra-plinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </div> <br /> 
 
 4. <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</div>
 
