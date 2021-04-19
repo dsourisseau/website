@@ -16,7 +16,7 @@ main:
   - name: Courses and Workshops
     url: '#workshops'
     weight: 40
-  - name: Abstracts in Conferences
+  - name: Abstracts
     url: '#conferences'
     weight: 50
   - name: Publications
