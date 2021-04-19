@@ -6,7 +6,9 @@ url_pdf: "Sourisseauetal.2020_FINAL_VERSION.pdf"
 publication_types:
   - "2"
 authors:
-  - admin
+  - Sourisseau, D., Macias, J.L., Garcia Tenorio, F., Ramón Avellán, D., Saucedo Girón, R., Bernal, J.P., Arce Saldaña J.L., and Tinoco Murillo, Z
+
+  #- admin
   - Macias J.L.
   - Garcia Tenorio F.
   - Ramón Avellan D.
