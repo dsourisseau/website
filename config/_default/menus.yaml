@@ -22,7 +22,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 60
-  - name: Divulgation
+  - name: Outreach
     url: '#divulgation'
     weight: 70
   - name: Other Certifications

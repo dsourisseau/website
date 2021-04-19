@@ -66,7 +66,7 @@ During my Ph.D. I described the pyroclastic deposits emplaced after the formatio
 </div>
 <br /> 
 
-### POST-DOC RESEARCH INTERESTS
+### RESEARCH INTERESTS
 
 I am looking for a post-doctoral position in the following research topics:
 
