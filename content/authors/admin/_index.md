@@ -52,7 +52,7 @@ highlight_name: false
 
 ### ABOUT ME
 <div style="text-align: justify"> 
-I am a french PhD student in volcanology (close to completion) looking for a post-doctoral position in tephrochronology and/or physical volcanology. <br /><br />
+I am a PhD student in volcanology (close to completion) looking for a post-doctoral position in tephrochronology and/or physical volcanology. <br /><br />
 
 My passion for volcanoes began when I discovered the history of Pompei and the 79AD eruption from Mt. Vesuvius when I was 12 years old. After that, I obtained a Licence in Earth Sciences, a Master degree, and a Ph.D. in Earth Sciences with volcanology specialty where I learned the fundamentals of volcanology, geochemistry, petrology, and geochronology. I also learned the Matlab, Python, and Latex programming languages as complementary tools.
 
