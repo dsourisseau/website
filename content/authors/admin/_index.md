@@ -25,11 +25,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Delphine-Sourisseau
-
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/delphine-sourisseau-854355a4/
-
 
 organizations:
   - name: National Autonomous University of Mexico (UNAM), Geophysic Institute

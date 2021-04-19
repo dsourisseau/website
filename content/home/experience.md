@@ -38,7 +38,7 @@ experience:
         * 230Th/U, C14, and Ar/Ar radiometric datings
        
        
-  - title: A.Sc. in Foreign languages, literature and civilizations, English specialty
+  - title: A.A. in Foreign languages, literature and civilizations, English specialty
     company: Clermont Auvergne University (UCA)
     company_url: 'https://lcc.uca.fr/formation/licence/licence-langues-litteratures-civilisations-etrangeres-et-regionales'
     location: Clermont-Ferrand, FRANCE
