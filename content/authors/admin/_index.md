@@ -1,8 +1,8 @@
 ---
-title: Delphine R. N. SOURISSEAU
-role: PhD student in Earth Sciences, volcanology specialty
+title: Dr. Delphine R. N. SOURISSEAU
+role: Doctor in Earth Sciences, volcanology specialty
 avatar_filename: https://scontent.fmlm1-1.fna.fbcdn.net/v/t31.18172-8/26063654_10213101956896153_6742823389416746516_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=jK6po6Sk-s4AX-uvGtN&_nc_ht=scontent.fmlm1-1.fna&oh=19c393283008b03549d6abe0126e21d4&oe=608D9AC4
-bio: My research interests include tephrochronology, and physical volcanology.
+bio: My research interests include tephrochronology/stratigraphy and physical volcanology.
 interests:
   - Tephrochronology
   - Physical volcanology
@@ -38,7 +38,7 @@ education:
   courses:
     - course: Ph.D. in Earth Sciences
       institution: National Autonomous University of Mexico (UNAM) - Geophysic Institute Morelia Unit (IGUM)
-      year: present
+      year: 2021
     - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
       institution: Clermont Auvergne University (UCA) - Magmas and Volcanoes Laboratory (LMV)
       year: 2013

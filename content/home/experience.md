@@ -28,7 +28,7 @@ experience:
     company_url: 'http://igum.geofisica.unam.mx'
     location: Morelia, MEXICO
     date_start: '2015-08-01'
-    date_end: ''
+    date_end: '2021-05-07'
     description: |2-
         Responsibilities include:
         
