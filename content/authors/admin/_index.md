@@ -1,5 +1,5 @@
 ---
-title: Dr. Delphine R. N. SOURISSEAU
+title: Delphine R. N. SOURISSEAU, Ph.D.
 role: Doctor in Earth Sciences, volcanology specialty
 avatar_filename: https://scontent.fmlm1-1.fna.fbcdn.net/v/t31.18172-8/26063654_10213101956896153_6742823389416746516_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=jK6po6Sk-s4AX-uvGtN&_nc_ht=scontent.fmlm1-1.fna&oh=19c393283008b03549d6abe0126e21d4&oe=608D9AC4
 bio: My research interests include tephrochronology/stratigraphy and physical volcanology.
