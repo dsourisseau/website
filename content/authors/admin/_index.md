@@ -60,13 +60,16 @@ During my Ph.D. I described the pyroclastic deposits emplaced after the formatio
 
 I am looking for a post-doctoral position in the following research topics:
 
-1. <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes to improve the eruption volume estimations from past explosive events.
-</div><br />
+<ul>
 
-2. <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to constrain the age of past climatic events.</div><br /> 
+<li> <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes to improve the eruption volume estimations from past explosive events.</li> <br /> 
 
-3. <div style="text-align: justify"> Reconstruction and quantification of the physical properties from subplinian to ultra-plinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </div> <br /> 
+<li> <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to constrain the age of past climatic events.</li> <br /> 
 
-4. <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</div>
+<li> <div style="text-align: justify"> Reconstruction and quantification of the physical properties from subplinian to ultra-plinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </li> <br /> 
+
+<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</li>
+
+</ul>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_DELPHINE_SOURISSEAU_ENGLISH.pdf" "newtab" >}}resumé{{< /staticref >}}.
