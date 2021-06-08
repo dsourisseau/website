@@ -62,7 +62,7 @@ I am looking for a post-doctoral position in the following research topics:
 
 <ul>
 
-<li> <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes to improve the eruption volume estimations from past explosive events.</li> <br /> 
+<li> <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes.</li> <br /> 
 
 <li> <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to constrain the age of past climatic events.</li> <br /> 
 

@@ -10,7 +10,25 @@ headless: true
 weight: 90
 
 title: Gallery
-subtitle:
+subtitle: La Primavera, Jalisco, México
+
+#gallery_item:
+#- album: <gallery>
+#  image: <LP17205 Graben 2-min>.jpg
+#  caption: Write your image caption here
+
 ---
 
-{{< gallery>}}
+{{<gallery>}}
+
+
+
+
+
+
+
+
+
+
+
+
