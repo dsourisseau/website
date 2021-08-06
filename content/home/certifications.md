@@ -42,4 +42,23 @@ item:
   title: PADI Open Water Diver
   url: ""
 
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-08-20"
+  description: ""
+  organization: UNAM ENES languages center, Morelia, MEXICO
+  organization_url: ""
+  title: English - Level of proficiency B2
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-06-12"
+  description: ""
+  organization: SIELE - Total punctuation of 898/1000, reading, comprehension 204/250, listening comprehension 217/250, written expression 240/250, and oral expression 237/250
+  organization_url: ""
+  title: Spanish - Level of proficiency C1
+  url: ""
+
 ---
