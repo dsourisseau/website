@@ -8,10 +8,9 @@ interests:
   - Physical volcanology
   - Volcanic stratigraphy
   - Caldera evolution
-  - Climate changes
- 
   - Geochemistry
   - Radiometric datings
+  - Climate changes
   - Machine Learning methods
 social:
   - icon: envelope
@@ -30,20 +29,21 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/delphine-sourisseau-854355a4/
 
+#á, é, í, ó, ú
+
 organizations:
-  - name: National Autonomous University of Mexico (UNAM), Geophysic Institute
-      Morelia Unit (IGUM)
+  - name: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autonoma de México(UNAM)
     url: http://igum.geofisica.unam.mx/
 education:
   courses:
     - course: Ph.D. in Earth Sciences
-      institution: National Autonomous University of Mexico (UNAM) - Geophysic Institute Morelia Unit (IGUM)
+      institution: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autonoma de México(UNAM)
       year: 2021
     - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
-      institution: Clermont Auvergne University (UCA) - Magmas and Volcanoes Laboratory (LMV)
+      institution: Université Clermont Auvergne (UCA) - Laboratoire Magmas et Volcans (LMV)
       year: 2013
     - course: B.Sc. in Earth Sciences
-      institution: Clermont Auvergne University (UCA)
+      institution: Université Clermont Auvergne (UCA)
       year: 2011
 email: d.sourisseau@igeofisica.unam.mx
 superuser: true

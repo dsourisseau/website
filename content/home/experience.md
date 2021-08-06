@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
   - title: Ph.D. in Earth Sciences
-    company: National Autonomous University of Mexico (UNAM), Geophysic Institute Morelia Unit (IGUM)
+    company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autonoma de México(UNAM)
     company_url: 'http://igum.geofisica.unam.mx'
     location: Morelia, MEXICO
     date_start: '2015-08-01'
@@ -39,7 +39,7 @@ experience:
        
        
   - title: A.A. in Foreign languages, literature and civilizations, English specialty
-    company: Clermont Auvergne University (UCA)
+    company: Université Clermont Auvergne (UCA)
     company_url: 'https://lcc.uca.fr/formation/licence/licence-langues-litteratures-civilisations-etrangeres-et-regionales'
     location: Clermont-Ferrand, FRANCE
     date_start: '2013-09-01'
@@ -48,7 +48,7 @@ experience:
 
 
   - title: M.Sc. in Earth Sciences, Magmas and Volcanoes specialty
-    company: Clermont Auvergne University (UCA), Magmas and Volcanoes Laboratory (LMV)
+    company: Université Clermont Auvergne (UCA), Laboratoire Magmas et Volcans (LMV)
     company_url: 'https://lmv.uca.fr/en/'
     location: Clermont-Ferrand, FRANCE
     date_start: '2011-09-01'
@@ -60,7 +60,7 @@ experience:
         * Whole-rock and in-situ geochemical analyses
 
   - title: B.Sc. in Earth Sciences
-    company: Clermont Auvergne University (UCA)
+    company: Université Clermont Auvergne (UCA)
     company_url: 'https://ecole.opgc.uca.fr/'
     location: Clermont-Ferrand, FRANCE
     date_start: '2010-09-01'
@@ -68,7 +68,7 @@ experience:
     description: ''
 
   - title: A.Sc. in Earth Sciences and Environment
-    company: University of Pau and Pays de l'Adour (UPPA)
+    company: Université de Pau et des Pays de l'Adour (UPPA)
     company_url: 'https://www.univ-pau.fr/en/home.html'
     location: Pau, FRANCE
     date_start: '2008-09-01'
