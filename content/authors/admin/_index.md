@@ -32,12 +32,12 @@ social:
 #á, é, í, ó, ú
 
 organizations:
-  - name: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autonoma de México(UNAM)
+  - name: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México(UNAM)
     url: http://igum.geofisica.unam.mx/
 education:
   courses:
     - course: Ph.D. in Earth Sciences
-      institution: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autonoma de México(UNAM)
+      institution: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México(UNAM)
       year: 2021
     - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
       institution: Université Clermont Auvergne (UCA) - Laboratoire Magmas et Volcans (LMV)

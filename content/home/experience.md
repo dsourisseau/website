@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
   - title: Ph.D. in Earth Sciences
-    company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autonoma de México(UNAM)
+    company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México(UNAM)
     company_url: 'http://igum.geofisica.unam.mx'
     location: Morelia, MEXICO
     date_start: '2015-08-01'
