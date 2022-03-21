@@ -20,13 +20,20 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: d.sourisseau@igeofisica.unam.mx
+email: d.sourisseau@geologia.unam.mx
 #phone: 888 888 88 88
 address:
-  street: Antigua Carretera a Pátzcuaro No.8701, Col. Ex Hacienda de Sán José de la Huerta
-  city: Morelia CP 58190 
+  street: Avenida Universidad No.3000, Colonia UNAM C.U., Delegación Coyoacan
+  city: Ciudad de México CP 04510 
   #postcode: '58190'
-  region: Michoacan, MEXICO
+  region: MEXICO
+
+#email: d.sourisseau@igeofisica.unam.mx
+#address:
+  #street: Antigua Carretera a Pátzcuaro No.8701, Col. Ex Hacienda de Sán José de la Huerta
+  #city: Morelia CP 58190 
+  #postcode: '58190'
+  #region: Michoacan, MEXICO
   #country: MEXICO
   #country_code: US
 

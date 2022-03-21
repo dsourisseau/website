@@ -23,8 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Postdoctoral Researcher in Volcanology
+    company: Instituto de Geologia (IGL), Universidad Nacional Autónoma de México (UNAM)
+    company_url: 'https://www.geologia.unam.mx/'
+    location: Ciudad de México, MEXICO
+    date_start: '2022-03-01'
+    date_end: '2023-02-28'
+    description: |2-
+        Responsibilities include:
+        
+        * Description and correlation of pyroclastic deposits
+        * Grain size and componentry analyses
+        * Whole-rock and in-situ geochemical analyses 
+  
+  
+  
+  
+  
   - title: Ph.D. in Earth Sciences
-    company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México(UNAM)
+    company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México (UNAM)
     company_url: 'http://igum.geofisica.unam.mx'
     location: Morelia, MEXICO
     date_start: '2015-08-01'
