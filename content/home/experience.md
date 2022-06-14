@@ -30,14 +30,13 @@ experience:
     date_start: '2022-03-01'
     date_end: '2023-02-28'
     description: |2-
-        Responsibilities include:
         
-        * Description and correlation of pyroclastic deposits
+    Description and correlation of pyroclastic deposits with their source volcanoes using::
+    
+        * Field observations
         * Grain size and componentry analyses
-        * Whole-rock and in-situ geochemical analyses 
-  
-  
-  
+        * Optical microscope
+        * Major, trace, and isotope whole-rock and major element in-situ geochemical analyses
   
   
   - title: Ph.D. in Earth Sciences
@@ -47,11 +46,13 @@ experience:
     date_start: '2015-08-01'
     date_end: '2021-05-07'
     description: |2-
-        Responsibilities include:
         
-        * Description and correlation of plinian and subplinian pyroclastic deposits
+    Description and correlation of plinian and subplinian pyroclastic deposits with their source volcanoes using::
+
+        * Field observations
         * Grain size and componentry analyses
-        * Whole-rock and in-situ geochemical analyses
+        * Optical microscope
+        * Major, trace, and isotope whole-rock and major element in-situ geochemical analyses
         * 230Th/U, C14, and Ar/Ar radiometric datings
        
        
@@ -71,10 +72,11 @@ experience:
     date_start: '2011-09-01'
     date_end: '2013-06-30'
     description: |2-
-        Responsibilities include:
         
-        * Description of dredged lava samples collected around the Reunion Island
-        * Whole-rock and in-situ geochemical analyses
+    Description of dredged lava samples collected around the Reunion Island using::
+
+        * Optical microscope
+        * Major and trace element whole-rock and in-situ geochemical analyses
 
   - title: B.Sc. in Earth Sciences
     company: Université Clermont Auvergne (UCA)
