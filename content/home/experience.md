@@ -29,8 +29,7 @@ experience:
     location: Ciudad de México, MEXICO
     date_start: '2022-03-01'
     date_end: '2023-02-28'
-    description: |2-
-        
+    description: |2-   
     Description and correlation of pyroclastic deposits with their source volcanoes using
         * Field observations
         * Grain size and componentry analyses
@@ -44,8 +43,7 @@ experience:
     location: Morelia, MEXICO
     date_start: '2015-08-01'
     date_end: '2021-05-07'
-    description: |2-
-        
+    description: |2-    
     Description and correlation of plinian and subplinian pyroclastic deposits with their source volcanoes using
         * Field observations
         * Grain size and componentry analyses
@@ -69,8 +67,7 @@ experience:
     location: Clermont-Ferrand, FRANCE
     date_start: '2011-09-01'
     date_end: '2013-06-30'
-    description: |2-
-        
+    description: |2-      
     Description of dredged lava samples collected around the Reunion Island using
         * Optical microscope
         * Major and trace element whole-rock and in-situ geochemical analyses
