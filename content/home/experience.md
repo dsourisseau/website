@@ -36,7 +36,6 @@ experience:
         * Optical microscope
         * Major, trace, and isotope whole-rock and major element in-situ geochemical analyses
   
-  
   - title: Ph.D. in Earth Sciences
     company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México (UNAM)
     company_url: 'http://igum.geofisica.unam.mx'
@@ -50,8 +49,7 @@ experience:
         * Optical microscope
         * Major, trace, and isotope whole-rock and major element in-situ geochemical analyses
         * 230Th/U, C14, and Ar/Ar radiometric datings
-       
-       
+           
   - title: A.A. in Foreign languages, literature and civilizations, English specialty
     company: Université Clermont Auvergne (UCA)
     company_url: 'https://lcc.uca.fr/formation/licence/licence-langues-litteratures-civilisations-etrangeres-et-regionales'
@@ -59,7 +57,6 @@ experience:
     date_start: '2013-09-01'
     date_end: '2014-06-30'
     description: ''      
-
 
   - title: M.Sc. in Earth Sciences, Magmas and Volcanoes specialty
     company: Université Clermont Auvergne (UCA), Laboratoire Magmas et Volcans (LMV)
