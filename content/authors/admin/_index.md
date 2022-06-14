@@ -10,7 +10,6 @@ interests:
   - Caldera evolution
   - Geochemistry
   - Radiometric datings
-  - Climate changes
   - Machine Learning methods
 social:
   - icon: envelope
