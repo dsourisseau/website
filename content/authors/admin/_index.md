@@ -36,7 +36,7 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Earth Sciences
-      institution: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México(UNAM)
+      institution: Universidad Nacional Autónoma de México(UNAM) - Instituto de Geofísica Unidad Michoacán (IGUM)
       year: 2021
     - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
       institution: Université Clermont Auvergne (UCA) - Laboratoire Magmas et Volcans (LMV)
