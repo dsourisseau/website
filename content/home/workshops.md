@@ -51,4 +51,13 @@ item:
   title: INTAV Workshop - Best practices in tephra collection, analysis, and reporting.
   url: ""
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-12-06"
+  description: "Assistant - 30h"
+  organization: Morelia, MEXICO
+  organization_url: ""
+  title: Machine Learning para la mejora de la enseñanza aplicado a la Ciencia de Datos - Diplomado en Aprendizaje Maquina y Profundo aplicado a Grandes Volúmenes de Datos.
+  url: ""
+
 ---

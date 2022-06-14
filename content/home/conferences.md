@@ -60,4 +60,12 @@ item:
   title: Cities on Volcanoes 10
   url: "/media/POSTER_CITIES_ON_VOLCANOES.pdf"
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-06-12"
+  description: "**Poster** - The last explosive eruption of La Primavera caldera, Jalisco, Mexico."
+  organization: Heraklion, CRETE
+  organization_url: ""
+  title: Cities on Volcanoes 11
+  #url: "/media/POSTER_CITIES_ON_VOLCANOES.pdf"
 ---
