@@ -32,7 +32,6 @@ experience:
     description: |2-
         
     Description and correlation of pyroclastic deposits with their source volcanoes using
-    
         * Field observations
         * Grain size and componentry analyses
         * Optical microscope
@@ -48,7 +47,6 @@ experience:
     description: |2-
         
     Description and correlation of plinian and subplinian pyroclastic deposits with their source volcanoes using
-
         * Field observations
         * Grain size and componentry analyses
         * Optical microscope
@@ -74,7 +72,6 @@ experience:
     description: |2-
         
     Description of dredged lava samples collected around the Reunion Island using
-
         * Optical microscope
         * Major and trace element whole-rock and in-situ geochemical analyses
 
