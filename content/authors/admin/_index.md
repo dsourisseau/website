@@ -36,7 +36,7 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Earth Sciences
-      institution: Universidad Nacional Autónoma de México (UNAM)    - Instituto de Geofísica Unidad Michoacán (IGUM)
+      institution: Universidad Nacional Autónoma de México (UNAM) - Instituto de Geofísica Unidad Michoacán (IGUM)
       year: 2021
     - course: M.Sc. in Earth Sciences, Magmas and Volcanoes Specialty
       institution: Université Clermont Auvergne (UCA) - Laboratoire Magmas et Volcans (LMV)
@@ -69,7 +69,9 @@ Research interests:
 
 <li> <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes.</li> <br /> 
 
-<li> <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to establish detailed frequency records of volcanic eruptions.</li> <br /> 
+<li> <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to establish detailed frequency records of volcanic eruptions, and improve eruption volume estimates.
+
+.</li> <br /> 
 
 </ul>
 
