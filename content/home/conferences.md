@@ -67,5 +67,5 @@ item:
   organization: Heraklion, CRETE
   organization_url: ""
   title: Cities on Volcanoes 11
-  #url: "/media/POSTER_CITIES_ON_VOLCANOES.pdf"
+  url: "/media/Poster_COV_2022.pdf"
 ---
