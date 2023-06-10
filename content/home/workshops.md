@@ -93,7 +93,7 @@ item:
   description: "Assistant"
   organization: IAVCEI Tephra community - Rotorua, New Zealand
   organization_url: ""
-  title: Virtual workshop "From field apps to data repositories, Improving tephra data discoverability, access, and workflows to support next generation research." during the IAVCEI Scientific Assembly 2023.
+  title: Virtual workshop "From field apps to data repositories, Improving tephra data discoverability, access, and workflows to support next generation research." of the IAVCEI Scientific Assembly 2023.
   url: ""
 
 ---
