@@ -52,9 +52,11 @@ highlight_name: false
 
 ### RECENT INVESTIGATION
 <div style="text-align: justify"> 
-During my Ph.D. I described the pyroclastic deposits (uA-uN) emplaced after the formation of the Primavera caldera ~95 ka using field descriptions, laboratory analyses including granulometry, componentry, whole-rock and in-situ geochemical analyses, and 230Th/U and C14 radiometric datings in pumice zircons and paleosols, respectively. I also used the stratigraphic relations between pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of the Primavera volcanic complex. <br /> <br /> 
-
-I am currently working on the last pyroclastic eruption (uO) and chemistry of the Primavera post-caldera pyroclastic units to understand the processes involved in the formation of the Primavera magmas.
+During my Ph.D. I described and correlated the deposits of 14 pyroclastic eruptions (uA-uN) emplaced after the formation of the La Primavera (LP) caldera some ~95 ka. 
+My research revealed that the intra-caldera explosive activity came from the central resurgent Nejahuete composite dome with the deposition of the GP and A to D units between 86.4 and 71.5 ka. The extra-caldera explosive activity came from the San Miguel, Planillas and Tajo volcanic centers with the deposition of the E to N units inside the caldera and south of the caldera ring fault between 71.5 and 26.8 ka.
+I also used the stratigraphic relations between the pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of the LP volcanic complex.
+<br /> <br /> 
+I am currently studying the last pyroclastic eruptions of LP that came from the Colli dome, volcano located in the western part of the Guadalajara Metropolitan Area in Jalisco, Mexico. I am also using the chemistry of the LP post-caldera pyroclastic units to understand the processes involved in the generation of the Primavera magmas.
 </div>
 <br /> 
 
