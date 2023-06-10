@@ -1,6 +1,5 @@
 # IDEs
 .idea/
-.hugo_build.lock
 
 # Hugo
 /resources/
