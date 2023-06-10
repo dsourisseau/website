@@ -101,9 +101,9 @@ item:
   date_end: ""
   date_start: "2022-08-15"
   description: ""
-  organization: Seminario del Instituto de Geología, Ciudad de México, MEXICO
+  organization: , Ciudad de México, MEXICO
   organization_url: ""
-  title: Actividad explosiva del Holoceno en la caldera de La Primavera, Jalisco
+  title: Seminario del departamento de Procesos Litosféricos del Instituto de Geología
   url: ""
 
 - certificate_url: ""
