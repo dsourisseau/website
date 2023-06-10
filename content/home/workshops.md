@@ -57,7 +57,43 @@ item:
   description: "Assistant - 30h"
   organization: Morelia, MEXICO
   organization_url: ""
-  title: Machine Learning para la mejora de la enseñanza aplicado a la Ciencia de Datos - Diplomado en Aprendizaje Maquina y Profundo aplicado a Grandes Volúmenes de Datos.
+  title: Módulo I. Aprendizaje automático (ML) para la mejora de la enseñanza aplicado a la Ciencia de Datos - Diplomado en Aprendizaje Máquina y Profundo aplicado a Grandes Volúmenes de Datos.
+  url: ""
+
+- certificate_url: ""
+  date_end: "2022-03-03"
+  date_start: "2022-02-10"
+  description: "Assistant"
+  organization: IAVCEI Tephra community
+  organization_url: ""
+  title: Tephra Fusion 2022 virtual workshop series.
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-08-15"
+  description: "Assistant - 60h"
+  organization: Morelia, MEXICO
+  organization_url: ""
+  title: Módulo II y III. Aprendizaje profundo y grandes vólumenes de datos - Diplomado en Aprendizaje Máquina y Profundo aplicado a Grandes Volúmenes de Datos.
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-11-3"
+  description: "Assistant - 6h"
+  organization: Puerto Vallarta, MEXICO
+  organization_url: ""
+  title: Análisis de datos geofísicos empleando el ambiente de desarrollo interactivo web JupyterLab, su aplicación en las Ciencias de la Tierra.
+  url: ""
+
+- certificate_url: ""
+  date_end: "2023-01-29"
+  date_start: "2023-01-28"
+  description: "Assistant"
+  organization: IAVCEI Tephra community - Rotorua, New Zealand
+  organization_url: ""
+  title: Virtual workshop "From field apps to data repositories, Improving tephra data discoverability, access, and workflows to support next generation research." during the IAVCEI Scientific Assembly 2023.
   url: ""
 
 ---

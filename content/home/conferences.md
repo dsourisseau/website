@@ -27,19 +27,19 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2016-10-30"
-  description: "**Conference** - Plinian eruptions associated to the post-caldera activity of the La Primavera, Jalisco."
+  description: "**Conference** - Erupciones plinianas asociadas a la actividad post-caldera de La Primavera, Jalisco."
   organization: Puerto Vallarta, MEXICO
   organization_url: ""
-  title: 2016 Annual Reunion of the Mexican Geophysics Union
+  title: Reunión Anual 2016 Unión Geofísica Mexicana
   url: ""
 
 - certificate_url: ""
   date_end: ""
   date_start: "2016-09-19"
-  description: "**Conference** - Plinian eruptions associated to the post-caldera activity of the La Primavera, Jalisco."
+  description: "**Conference** - Erupciones plinianas asociadas a la actividad post-caldera de La Primavera, Jalisco."
   organization: Morelia, MEXICO
   organization_url: ""
-  title: XXVI National Chemistry Conference
+  title: XXVI Congreso Nacional de Geoquímica
   url: ""
 
 - certificate_url: ""
@@ -68,4 +68,22 @@ item:
   organization_url: ""
   title: Cities on Volcanoes 11
   url: "/media/Poster_COV_2022.pdf"
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-10-30"
+  description: "**Conference** - Actividad explosiva del Holoceno en la caldera de La Primavera, Jalisco, México."
+  organization: Puerto Vallarta, MEXICO
+  organization_url: ""
+  title: Reunión Anual 2022 Unión Geofísica Mexicana
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-04-23"
+  description: "**Poster** - Actividad explosiva del Holoceno en la caldera de La Primavera."
+  organization: Ciudad de México, MEXICO
+  organization_url: "/media/Poster_Convencion_Geologica_Nacional_Mexicana.pdf"
+  title: Convención Geológica Nacional 2023
+  url: ""
 ---

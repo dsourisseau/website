@@ -24,17 +24,18 @@ date_format: Jan 2006
 
 experience:
   - title: Postdoctoral Researcher in Volcanology
-    company: Instituto de Geologia (IGL), Universidad Nacional Autónoma de México (UNAM)
+    company: Instituto de Geología (IGL), Universidad Nacional Autónoma de México (UNAM)
     company_url: 'https://www.geologia.unam.mx/'
     location: Ciudad de México, MEXICO
     date_start: '2022-03-01'
-    date_end: '2023-02-28'
+    date_end: ''
     description: |2-   
-        Description and correlation of pyroclastic deposits with their source volcanoes using
+        Description of the deposits of the last pyroclastic eruptions of the La Primavera caldera volcanic complex using
         * Field observations
         * Grain size and componentry analyses
         * Optical microscope
         * Major, trace, and isotope whole-rock and major element in-situ geochemical analyses
+        * C14 radiometric datings
   
   - title: Ph.D. in Earth Sciences
     company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México (UNAM)

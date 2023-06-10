@@ -51,15 +51,13 @@ item:
   title: Fiesta de las Ciencias y las Humanidades 2017
   url: ""
 
-
-
 - certificate_url: ""
   date_end: ""
   date_start: "2018-02-19"
   description: ""
   organization: Morelia, MEXICO
   organization_url: ""
-  title: 75 Aniversario del Nacimento del Volcan Paricutin
+  title: 75 Aniversario del Nacimento del Volcán Parícutin
   url: ""
 
 - certificate_url: ""
@@ -78,7 +76,7 @@ item:
   description: ""
   organization: Morelia, MEXICO
   organization_url: ""
-  title: 76 Aniversario del Nacimento del Volcan Paricutin
+  title: 76 Aniversario del Nacimento del Volcán Parícutin
   url: ""
 
 - certificate_url: ""
@@ -99,6 +97,14 @@ item:
 #  title: Charla "Geofísica en el mundo - cómo los investigadores extrangeros llegaron a México"
 #  url: ""
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-05-20"
+  description: ""
+  organization: Morelia, MEXICO
+  organization_url: ""
+  title: Feria Infantil de Ciencias y Artes 2023
+  url: ""
 
 
 ---
