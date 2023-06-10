@@ -12,7 +12,6 @@ interests:
   - Geochemistry
   - Radiometric datings
   - Machine Learning methods
-  - Docker
 social:
   - icon: envelope
     icon_pack: fas
