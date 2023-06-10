@@ -101,7 +101,7 @@ item:
   date_end: ""
   date_start: "2022-08-15"
   description: ""
-  organization: , Ciudad de México, MEXICO
+  organization: Ciudad de México, MEXICO
   organization_url: ""
   title: Seminario del departamento de Procesos Litosféricos del Instituto de Geología
   url: ""
