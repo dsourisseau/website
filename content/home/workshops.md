@@ -80,7 +80,7 @@ item:
 
 - certificate_url: ""
   date_end: ""
-  date_start: "2022-11-3"
+  date_start: "2022-11-03"
   description: "Assistant - 6h"
   organization: Puerto Vallarta, MEXICO
   organization_url: ""
