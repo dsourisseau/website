@@ -64,13 +64,11 @@ Research interests:
 
 <ul>
 
-<li> <div style="text-align: justify"> Reconstruction and quantification of the physical properties from subplinian to ultra-plinian eruptions (volume, plume height, magnitude, intensity, VEI, etc). </li> <br /> 
+<li> <div style="text-align: justify"> Reconstruction and quantification of the physical properties of pyroclastic eruptions (volume, plume height, magnitude, intensity, VEI, etc). </li> <br /> 
 
-<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, radiometric datings, and geochemichal analyses.</li><br /> 
+<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, componentry and geochemichal analyses, and radiometric datings.</li><br />  
 
-<li> <div style="text-align: justify"> Description and correlation of tephras from terrestrial, lacustrine, alluvial, marine, and glacial depositional settings with their proximal deposits and sources volcanoes.</li> <br /> 
-
-<li> <div style="text-align: justify"> Description of tephras from lacustrine, marine (DSDP, ODP, and IODP expeditions, etc.), and glacial depositional settings to establish detailed frequency records of volcanic eruptions, and improve eruption volume estimates.
+<li> <div style="text-align: justify"> Description and correlation of tephras from lacustrine, marine, and glacial depositional settings (DSDP, ODP, and IODP expeditions, etc.) with their source volcanoes to establish detailed frequency records of volcanic eruptions, improve eruption volume estimates, and correlate paleoenvironmental records.
 
 .</li> <br /> 
 
