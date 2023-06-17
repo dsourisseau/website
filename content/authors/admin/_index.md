@@ -54,7 +54,7 @@ highlight_name: false
 <div style="text-align: justify"> 
 During my Ph.D. I investigated the "Pyroclastic eruptions associated with La Primavera post-caldera activity". During my research, I described and correlated the deposits of 14 subplinian to plinian eruptions with their source volcanoes in the La Primavera volcanic complex (LP), using field descriptions, components, geochemistry and radiometric datings. My research revealed that the intra-caldera explosive activity came from the central resurgent Nejahuete composite dome with the deposition of the GP and A to D units between 86.4 and 71.5 ka. The extra-caldera explosive activity came from the San Miguel, Planillas and Tajo volcanic centers with the deposition of the E to N units inside the caldera and south of the caldera ring fault between 71.5 and 26.8 ka. Finally, I used the stratigraphic relations between the pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of the LP volcanic complex (Sourisseau et al., 2020). I also used the chemistry of the post-caldera pyroclastic units to understand the processes involved in the generation of the Primavera magmas (Sourisseau et al., submitted).
 <br /> <br /> 
-I am currently studying the last pyroclastic eruptions of LP that came from the Colli dome, volcano located in the western part of the Guadalajara Metropolitan Area in Jalisco, Mexico (Sourisseau et al., in preparation).
+I am currently studying the Holocene pyroclastic eruptions of LP that came from the Colli dome, volcano located in the western part of the Guadalajara Metropolitan Area in Jalisco, Mexico (Sourisseau et al., in preparation).
 </div>
 <br /> 
 
