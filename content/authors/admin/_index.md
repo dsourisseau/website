@@ -64,7 +64,7 @@ Research interests:
 
 <ul>
 
-<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, componentry and geochemichal analyses, and radiometric datings.</li><br />  
+<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, componentry, geochemichal analyses, and radiometric datings.</li><br />  
 
 <li> <div style="text-align: justify"> Reconstruction and quantification of the physical properties of pyroclastic eruptions (volume, plume height, magnitude, intensity, VEI, etc). </li> <br /> 
 
