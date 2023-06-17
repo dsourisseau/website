@@ -70,8 +70,6 @@ Research interests:
 
 <li> <div style="text-align: justify"> Description and correlation of tephras from lacustrine, marine, and glacial depositional settings (DSDP, ODP, and IODP expeditions, etc.) with their source volcanoes to establish detailed frequency records of volcanic eruptions, improve eruption volume estimates, and correlate paleoenvironmental records.
 
-.</li> <br /> 
-
 </ul>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_DELPHINE_SOURISSEAU_ENGLISH.pdf" "newtab" >}}resumé{{< /staticref >}}.
