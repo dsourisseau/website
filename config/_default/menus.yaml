@@ -28,9 +28,9 @@ main:
   - name: Other Certifications
     url: '#certifications'
     weight: 80
-  - name: Gallery
-    url: '#gallery'
-    weight: 90
+  #- name: Gallery
+  #  url: '#gallery'
+  #  weight: 90
   - name: Contact
     url: '#contact'
     weight: 100

@@ -1,0 +1,86 @@
+---
+# An instance of the Blank widget with a Gallery page element.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 90
+
+#title: Gallery
+#subtitle: La Primavera caldera, Jalisco, México
+
+#gallery_item:
+#- album: gallery
+#  image: LP17205_Graben_2.JPG
+#  caption: Pyroclastic sequence south of the San Miguel volcano
+
+#- album: gallery
+#  image: 20180530_123842.jpg
+#  caption: Amate yellow tree sitted on a rock in Rio Caliente, NW of the La Primavera caldera
+
+#- album: gallery
+#  image: IMG_9414.JPG
+#  caption: Giant Pumice Horizon, lacustrine sequence, and pyroclastic deposits south of the Nejahuete volcano
+
+#- album: gallery
+#  image: IMG_3189.JPG
+#  caption: Giant Pumice Horizon, lacustrine sequence, and pyroclastic deposits south of the Nejahuete volcano 
+
+#- album: gallery
+#  image: GPH_11.JPG
+#  caption: Giant Pumice Horizon and lacustrine sedimentation south of the Nejahuete volcano 
+
+#- album: gallery
+#  image: IMG_2398.JPG
+#  caption: Pyroclastic sequence south of the Nejahuete volcano
+
+#- album: gallery
+#  image: IMG_2564.JPG
+#  caption: Pyroclastic sequence on the Puerta dome, east of the San Miguel volcano
+
+#- album: gallery
+#  image: IMG_2778.JPG
+#  caption: Pyroclastic sequence in Rio Caliente, NW of the La Primavera caldera
+
+#- album: gallery
+#  image: IMG_2509.JPG
+#  caption: Puerta dome, east of the San Miguel volcano
+
+#- album: gallery
+#  image: 3CC34F3A-0F17-457D-8B02-533206DE06DC.JPG
+#  caption: Pyroclastic sequence on the eastern flank of the Planillas volcano
+
+#- album: gallery
+#  image: IMG_9958.JPG
+#  caption: Colli dome
+
+#- album: gallery
+#  image: IMG_8711.JPG
+#  caption: Pyroclastic sequence of the last pyroclastic eruption of the Primavera caldera, north of the Colli dome
+
+#- album: gallery
+#  image: IMG_9149.JPG
+#  caption: Pyroclastic sequence of the last pyroclastic eruption of the Primavera caldera, Tala ignimbrite, and pre-caldera deposits, north of the Colli dome
+
+#- album: gallery
+#  image: IMG_9812.JPG
+#S  caption: Pyroclastic sequence of the last pyroclastic eruption of the Primavera caldera in front of the Colli dome
+
+---
+
+{{< gallery album="gallery" >}}
+
+
+
+
+
+
+
+
+
+
+
+
