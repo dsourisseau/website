@@ -67,7 +67,7 @@ item:
   organization: Heraklion, CRETE
   organization_url: ""
   title: Cities on Volcanoes 11
-  url: "/media/Poster_COV_2022.pdf"
+  #url: "/media/Poster_COV_2022.pdf"
 
 - certificate_url: ""
   date_end: ""
@@ -83,7 +83,7 @@ item:
   date_start: "2023-04-23"
   description: "**Poster** - Actividad explosiva del Holoceno en la caldera de La Primavera."
   organization: Ciudad de México, MEXICO
-  organization_url: "/media/Poster_Convencion_Geologica_Nacional_Mexicana.pdf"
+  organization_url: ""
   title: Convención Geológica Nacional 2023
-  url: ""
+  #url: "/media/Poster_Convencion_Geologica_Nacional_Mexicana.pdf"
 ---
