@@ -29,13 +29,7 @@ experience:
     location: Ciudad de México, MEXICO
     date_start: '2022-03-01'
     date_end: ''
-    description: |2-   
-        Description of the deposits of the last pyroclastic eruptions of the La Primavera caldera volcanic complex using
-        * Field observations
-        * Grain size and componentry analyses
-        * Optical microscope
-        * Major, trace, and isotope whole-rock and major element in-situ geochemical analyses
-        * C14 radiometric datings
+    description: '' 
   
   - title: Ph.D. in Earth Sciences
     company: Instituto de Geofísica Unidad Michoacán (IGUM), Universidad Nacional Autónoma de México (UNAM)
@@ -43,13 +37,7 @@ experience:
     location: Morelia, MEXICO
     date_start: '2015-08-01'
     date_end: '2021-05-07'
-    description: |2-    
-        Description and correlation of plinian and subplinian pyroclastic deposits with their source volcanoes using
-        * Field observations
-        * Grain size and componentry analyses
-        * Optical microscope
-        * Major, trace, and isotope whole-rock and major element in-situ geochemical analyses
-        * 230Th/U, C14, and Ar/Ar radiometric datings
+    description: ''    
            
   - title: A.A. in Foreign languages, literature and civilizations, English specialty
     company: Université Clermont Auvergne (UCA)
@@ -65,10 +53,7 @@ experience:
     location: Clermont-Ferrand, FRANCE
     date_start: '2011-09-01'
     date_end: '2013-06-30'
-    description: |2-      
-        Description of dredged lava samples collected around the Reunion Island using
-        * Optical microscope
-        * Major and trace element whole-rock and in-situ geochemical analyses
+    description: ''
 
   - title: B.Sc. in Earth Sciences
     company: Université Clermont Auvergne (UCA)
