@@ -64,12 +64,11 @@ Research interests:
 
 <ul>
 
-<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, 
-component analysis, geochemistry, and radiometric datings.</li><br />  
+<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, component analysis, geochemistry, and radiometric datings.</li><br />  
 
 <li> <div style="text-align: justify"> Reconstruction and quantification of the physical properties of pyroclastic eruptions. </li> <br /> 
 
-<li> <div style="text-align: justify"> Description and correlation of tephras from lacustrine, marine, and glacial depositional settings (DSDP, ODP, and IODP expeditions, etc.) with their source volcanoes to establish detailed frequency records of volcanic eruptions, improve eruption volume estimates, and correlate paleoenvironmental records.
+<li> <div style="text-align: justify"> Description and correlation of tephras from lacustrine, marine, and/or glacial depositional settings (DSDP, ODP, and IODP expeditions, etc.) with their source volcanoes to establish detailed frequency records of volcanic eruptions, improve records of large magnitude volcanic events, and correlate paleoenvironmental records.
 
 </ul>
 
