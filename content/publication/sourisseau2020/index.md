@@ -16,6 +16,7 @@ authors:
   - Bernal J.P.
   - Arce Saldaña J.L.
   - Tinoco Murillo Z.
+  
 author_notes: []
 publication: Journal of South American Earth Sciences
 summary: ""
