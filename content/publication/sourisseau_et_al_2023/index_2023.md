@@ -37,7 +37,7 @@ image:
   preview_only: false
 date: 
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 
 url_poster: ""
 url_code: ""
 ---
