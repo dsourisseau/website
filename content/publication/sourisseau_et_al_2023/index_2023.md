@@ -35,9 +35,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: Accepted for publication
+date: 
 url_slides: ""
-publishDate: 
+publishDate: Accepted for publication
 url_poster: ""
 url_code: ""
 ---
