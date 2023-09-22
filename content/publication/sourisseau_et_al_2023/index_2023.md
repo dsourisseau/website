@@ -22,7 +22,7 @@ author_notes: []
 publication: Journal of Volcanology and Geothermal Research
 summary: ""
 url_dataset: ""
-url_project: "https://authors.elsevier.com/a/1hoGR1LkU3g7jJ"
+url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
