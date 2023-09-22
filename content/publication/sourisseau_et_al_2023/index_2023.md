@@ -2,7 +2,7 @@
 
 abstract: <p align="justify">  </p>
 
-url_pdf: ""
+url_pdf: "https://authors.elsevier.com/a/1hoGR1LkU3g7jJ"
 publication_types:
   - "2"
 authors:
