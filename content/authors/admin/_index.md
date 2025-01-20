@@ -5,7 +5,7 @@ avatar_filename: https://scontent.fmlm1-1.fna.fbcdn.net/v/t31.18172-8/26063654_1
 bio: My research interests include Volcanic stratigraphy and Tephrochronology/stratigraphy.
 interests:
   - Volcanic stratigraphy
-  - Tephrochronology/tephrostratigraphy
+  - Tephrochronology/stratigraphy
   - Caldera evolution
   - Physical volcanology
   - Geochemistry
