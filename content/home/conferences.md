@@ -75,7 +75,7 @@ item:
   description: "**Conference** - Actividad explosiva del Holoceno en la caldera de La Primavera, Jalisco, México."
   organization: Puerto Vallarta, MEXICO
   organization_url: ""
-  title: Reunión Anual 2022 Unión Geofísica Mexicana
+  title: Reunión Anual Unión Geofísica Mexicana 2022
   url: ""
 
 - certificate_url: ""
@@ -86,4 +86,41 @@ item:
   organization_url: ""
   title: Convención Geológica Nacional 2023
   #url: "/media/Poster_Convencion_Geologica_Nacional_Mexicana.pdf"
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-02-12"
+  description: "**Poster** - The last explosive eruption of La Primavera caldera, Jalisco, Mexico."
+  organization: Antigua Guatemala, GUATEMALA
+  organization_url: ""
+  title: Cities on Volcanoes 12
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-09-8"
+  description: "**Poster** - Tephrostratigraphy of the Totolcingo Lagoon, Serdan Oriental Basin, Mexico."
+  organization: Catane, Sicily, ITALY
+  organization_url: ""
+  title: COT-INTIMATE-THM 2024 International Conference, Tephra$:$ Chronology, Stratigraphy, Hazards & Climate
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-10-28"
+  description: "**Conference** - Estratigrafía piroclástica del sector suroeste del estratovolcán Pico de Orizaba, Puebla-Veracruz, México."
+  organization: Puerto Vallarta, MEXICO
+  organization_url: ""
+  title: Reunión Anual Unión Geofísica Mexicana 2024
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2024-10-30"
+  description: "**Conference** - La última erupción de la caldera de La Primavera, Jalisco, México."
+  organization: Puerto Vallarta, MEXICO
+  organization_url: ""
+  title: Reunión Anual Unión Geofísica Mexicana 2024
+  url: ""
+
 ---

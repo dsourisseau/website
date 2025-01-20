@@ -23,12 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Postdoctoral Researcher in Volcanology
+  
+  - title: Postdoctoral Fellow CONAHCYT
+    company: Instituto de Geología (IGL), Universidad Nacional Autónoma de México (UNAM)
+    company_url: 'https://www.geologia.unam.mx/'
+    location: Ciudad de México, MEXICO
+    date_start: '2024-02-01'
+    date_end: ''
+    description: '' 
+  
+  - title: Postdoctoral Fellow DGAPA UNAM
     company: Instituto de Geología (IGL), Universidad Nacional Autónoma de México (UNAM)
     company_url: 'https://www.geologia.unam.mx/'
     location: Ciudad de México, MEXICO
     date_start: '2022-03-01'
-    date_end: ''
+    date_end: '2024-01-31'
     description: '' 
   
   - title: Ph.D. in Earth Sciences

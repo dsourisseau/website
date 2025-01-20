@@ -116,4 +116,33 @@ item:
   url: ""
 
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-10-01"
+  description: ""
+  organization: Ciudad de México, MEXICO
+  organization_url: ""
+  title: 8° Encuentro con la Tierra
+  url: ""
+
+  - certificate_url: ""
+  date_end: ""
+  date_start: "2024-11-09"
+  description: ""
+  organization: Ciudad de México, MEXICO
+  organization_url: ""
+  title: Noche de las estrellas
+  url: ""
+
+  - certificate_url: ""
+  date_end: ""
+  date_start: "2024-11-20"
+  description: ""
+  organization: Ciudad de México, MEXICO
+  organization_url: ""
+  title: Seminario del departamento de Procesos Litosféricos del Instituto de Geología
+  url: ""
+
+
+
 ---
