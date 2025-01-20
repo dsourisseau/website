@@ -57,11 +57,11 @@ My present research focus on:
 
 <ul>
 
-<li> <div style="text-align: justify"> Holocene pyroclastic activity of the Colli dome, La Primavera caldera, Jalisco, Mexico. </li><br />
+<li> <div style="text-align: justify"> Holocene pyroclastic activity of the Colli dome, La Primavera caldera, Jalisco, Mexico.
 
-<li> <div style="text-align: justify"> Pyroclastic stratigraphy of the S-SW sector of the Pico de Orizaba volcano, Puebla-Veracruz, Mexico. </li><br />
+<li> <div style="text-align: justify"> Pyroclastic stratigraphy of the S-SW sector of the Pico de Orizaba volcano, Puebla-Veracruz, Mexico.
 
-<li> <div style="text-align: justify"> Tephrostratigraphy of the Totolcingo Lagoon, Serdan Oriental Basin, Mexico. </li><br />
+<li> <div style="text-align: justify"> Tephrostratigraphy of the Totolcingo Lagoon, Serdan Oriental Basin, Mexico.
 
 <ul>
 
@@ -72,9 +72,9 @@ My present research focus on:
 
 <ul>
 
-<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, componentry analysis, geochemistry, and radiometric datings.</li><br />  
+<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, componentry analysis, geochemistry, and radiometric datings. 
 
-<li> <div style="text-align: justify"> Reconstruction of past pyroclastic eruptions. </li> <br /> 
+<li> <div style="text-align: justify"> Reconstruction of past pyroclastic eruptions.
 
 <li> <div style="text-align: justify"> Description and correlation of tephras from lacustrine, marine, and/or glacial depositional settings (DSDP, ODP, and IODP expeditions, etc.) with their source volcanoes to establish detailed frequency records of volcanic eruptions, improve records of large magnitude volcanic events, and correlate paleoenvironmental records.
 
