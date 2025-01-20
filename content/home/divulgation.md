@@ -131,7 +131,7 @@ item:
   description: ""
   organization: Ciudad de México, MEXICO
   organization_url: ""
-  title: Noche de las estrellas
+  title: Noche de las estrellas 2024
   url: ""
 
 - certificate_url: ""
