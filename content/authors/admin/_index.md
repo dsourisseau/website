@@ -59,9 +59,9 @@ My present research focus on:
 
 <ul>
 
-<li> <div style="text-align: justify"> The Holocene pyroclastic activity of the Colli dome, La Primavera caldera, Jalisco, Mexico. </li><br />
+<li> <div style="text-align: justify"> Holocene pyroclastic activity of the Colli dome, La Primavera caldera, Jalisco, Mexico. </li><br />
 
-<li> <div style="text-align: justify"> The pyroclastic stratigraphy of the S-SW sector of the Pico de Orizaba volcano, Puebla-Veracruz, Mexico. </li><br />
+<li> <div style="text-align: justify"> Pyroclastic stratigraphy of the S-SW sector of the Pico de Orizaba volcano, Puebla-Veracruz, Mexico. </li><br />
 
 <li> <div style="text-align: justify"> Tephrostratigraphy of the Totolcingo Lagoon, Serdan Oriental Basin, Mexico. </li><br />
 
