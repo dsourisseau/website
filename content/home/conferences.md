@@ -30,7 +30,7 @@ item:
   description: "**Conference** - Erupciones plinianas asociadas a la actividad post-caldera de La Primavera, Jalisco."
   organization: Puerto Vallarta, MEXICO
   organization_url: ""
-  title: Reunión Anual 2016 Unión Geofísica Mexicana
+  title: Reunión Anual Unión Geofísica Mexicana 2016
   url: ""
 
 - certificate_url: ""
