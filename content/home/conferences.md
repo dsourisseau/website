@@ -98,11 +98,11 @@ item:
 
 - certificate_url: ""
   date_end: ""
-  date_start: "2024-09-8"
+  date_start: "2024-09-08"
   description: "**Poster** - Tephrostratigraphy of the Totolcingo Lagoon, Serdan Oriental Basin, Mexico."
   organization: Catane, Sicily, ITALY
   organization_url: ""
-  title: COT-INTIMATE-THM 2024 International Conference, Tephra$:$ Chronology, Stratigraphy, Hazards & Climate
+  title: COT-INTIMATE-THM 2024 International Conference. Tephra Chronology, Stratigraphy, Hazards & Climate
   url: ""
 
 - certificate_url: ""

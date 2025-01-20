@@ -125,7 +125,7 @@ item:
   title: 8° Encuentro con la Tierra
   url: ""
 
-  - certificate_url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2024-11-09"
   description: ""
@@ -134,7 +134,7 @@ item:
   title: Noche de las estrellas
   url: ""
 
-  - certificate_url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2024-11-20"
   description: ""

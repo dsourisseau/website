@@ -52,21 +52,31 @@ highlight_name: false
 
 ### RECENT INVESTIGATION
 <div style="text-align: justify"> 
-During my Ph.D. I studied the post-caldera pyroclastic activity of the La Primavera caldera volcanic complex in Mexico. I described and correlated the deposits of 14 subplinian to plinian eruptions with their source volcanoes in the La Primavera volcanic complex, using field descriptions, component analysis, geochemistry, and radiometric datings. I also used the stratigraphic relations between the pyroclastic deposits and lavas, radiometric datings, and geochemical analyses to improve the evolution model of the volcanic complex (Sourisseau et al., 2020). 
+During my Ph.D. I studied the post-caldera pyroclastic activity of the La Primavera caldera in Mexico. Based on detailed field descriptions, grain size and componentry analysis, geochemistry, and U/Th radiometric datings, I described and correlated the deposits of 14 explosive eruptions with their source volcanoes in the La Primavera caldera. I used the stratigraphic relations between pyroclastic deposits and lavas, new datings, and geochemical analyses to improve the evolution model of the volcanic complex (Sourisseau et al., 2020). I used the chemistry of the post-caldera pyroclastic units to understand the processes involved in the generation of the La Primavera magmas (Sourisseau et al., 2023).
 <br /> <br /> 
-I am currently studying the Holocene pyroclastic eruptions of La Primavera that came from the Colli dome, volcano located in the western part of the Guadalajara Metropolitan Area in Jalisco, Mexico. I am also using the chemistry of the post-caldera pyroclastic units to understand the processes involved in the generation of the La Primavera magmas.
+
+My present research focus on:
+
+<ul>
+
+<li> <div style="text-align: justify"> The Holocene pyroclastic activity of the Colli dome, La Primavera caldera, Jalisco, Mexico. </li><br />
+
+<li> <div style="text-align: justify"> The pyroclastic stratigraphy of the S-SW sector of the Pico de Orizaba volcano, Puebla-Veracruz, Mexico. </li><br />
+
+<li> <div style="text-align: justify"> Tephrostratigraphy of the Totolcingo Lagoon, Serdan Oriental Basin, Mexico. </li><br />
+
+<ul>
+
 </div>
 <br /> 
 
 ### RESEARCH INTERESTS
 
-Research interests:
-
 <ul>
 
 <li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, componentry analysis, geochemistry, and radiometric datings.</li><br />  
 
-<li> <div style="text-align: justify"> Reconstruction and quantification of the physical properties of pyroclastic eruptions. </li> <br /> 
+<li> <div style="text-align: justify"> Reconstruction of past pyroclastic eruptions. </li> <br /> 
 
 <li> <div style="text-align: justify"> Description and correlation of tephras from lacustrine, marine, and/or glacial depositional settings (DSDP, ODP, and IODP expeditions, etc.) with their source volcanoes to establish detailed frequency records of volcanic eruptions, improve records of large magnitude volcanic events, and correlate paleoenvironmental records.
 
