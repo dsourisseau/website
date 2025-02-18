@@ -22,6 +22,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 60
+  - name: Blog
+    url: '#blog'
+    weight: 65
   - name: Outreach
     url: '#divulgation'
     weight: 70

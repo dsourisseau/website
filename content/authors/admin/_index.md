@@ -50,7 +50,7 @@ highlight_name: false
 
 ### RECENT INVESTIGATION
 <div style="text-align: justify"> 
-During my Ph.D. I studied the post-caldera pyroclastic activity of the La Primavera caldera in Mexico. Based on detailed field descriptions, grain size and componentry analysis, geochemistry, and U/Th radiometric datings, I described and correlated the deposits of 14 explosive eruptions with their source volcanoes in the La Primavera caldera. I used the stratigraphic relations between pyroclastic deposits and lavas, new datings, and geochemical analyses to improve the evolution model of the volcanic complex (Sourisseau et al., 2020). I used the chemistry of the post-caldera pyroclastic units to understand the processes involved in the generation of the La Primavera magmas (Sourisseau et al., 2023).
+During my Ph.D., I investigated the post-caldera pyroclastic activity of the La Primavera caldera in Mexico. Through detailed field observations, grain size and componentry analysis, geochemical studies, and U/Th radiometric dating, I identified and correlated the deposits of 14 explosive eruptions with their source volcanoes within the caldera. By integrating stratigraphic relationships between pyroclastic deposits and lava flows, new radiometric ages, and geochemical data, I refined the evolutionary model of the volcanic complex (Sourisseau et al., 2020). Additionally, I analyzed the geochemical composition of post-caldera pyroclastic units to gain insights into the magmatic processes responsible for the generation of La Primavera magmas (Sourisseau et al., 2023).
 <br /> <br /> 
 
 My present research focus on:
@@ -72,11 +72,11 @@ My present research focus on:
 
 <ul>
 
-<li> <div style="text-align: justify"> Reconstruction of volcanic histories using the relations between pyroclastic deposits and lavas, componentry analysis, geochemistry, and radiometric datings. 
+<li> <div style="text-align: justify"> Reconstruction of volcanic histories by analyzing the relationships between pyroclastic deposits and lava flows, as well as through componentry analysis, geochemistry, and radiometric dating.
 
-<li> <div style="text-align: justify"> Reconstruction of past pyroclastic eruptions.
+<li> <div style="text-align: justify"> Reconstruction of past pyroclastic eruptions to better understand their dynamics and impacts.
 
-<li> <div style="text-align: justify"> Description and correlation of tephras from lacustrine, marine, and/or glacial depositional settings (DSDP, ODP, and IODP expeditions, etc.) with their source volcanoes to establish detailed frequency records of volcanic eruptions, improve records of large magnitude volcanic events, and correlate paleoenvironmental records.
+<li> <div style="text-align: justify"> Identification, description, and correlation of tephra deposits from lacustrine, marine, and glacial environments (e.g., DSDP, ODP, and IODP expeditions) with their source volcanoes. This work aims to establish detailed eruption frequency records, refine our understanding of large-magnitude volcanic events, and enhance correlations with paleoenvironmental archives.
 
 </ul>
 
