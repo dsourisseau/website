@@ -3,7 +3,7 @@ title: Oportunidad de Servicio Social y Tesis de Licenciatura
 subtitle: 'Tefrocronología de las Cuencas Mexicanas'
 
 # Summary for listings and search engines
-summary: 'servicio social y tesis de licenciatura'
+summary: 'Tefrocronología de las Cuencas Mexicanas'
 
 # Link this post with a project
 #projects: 
