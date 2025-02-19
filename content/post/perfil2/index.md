@@ -1,6 +1,6 @@
 ---
 title: Oportunidad de Servicio Social y Tesis de Licenciatura
-subtitle: ''
+subtitle: 'Automatización de Recolección de Datos Bibliográficos y Creación de un repositorio web'
 
 # Summary for listings and search engines
 summary: 'servicio social y tesis de licenciatura'
