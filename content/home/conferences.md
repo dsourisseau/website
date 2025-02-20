@@ -126,7 +126,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2025-02-06"
-  description: "**Poster** - Tefroestratigrafóa de la laguna Totolcingo, Cuenca Serdán Oriental, México."
+  description: "**Poster** - Tefroestratigrafía de la laguna Totolcingo, Cuenca Serdán Oriental, México."
   organization: Ciudad de México, MEXICO
   organization_url: ""
   title: Simposio 30 años del Laboratorio Universitario de Geoquímica Isotópica
