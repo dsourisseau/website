@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
   
-  - title: Postdoctoral Fellow CONAHCYT
+  - title: Postdoctoral Research Fellow SECIHTI
     company: Instituto de Geología (IGL), Universidad Nacional Autónoma de México (UNAM)
     company_url: 'https://www.geologia.unam.mx/'
     location: Ciudad de México, MEXICO
@@ -32,7 +32,7 @@ experience:
     date_end: ''
     description: '' 
   
-  - title: Postdoctoral Fellow DGAPA-UNAM
+  - title: Postdoctoral Research Fellow DGAPA-UNAM
     company: Instituto de Geología (IGL), Universidad Nacional Autónoma de México (UNAM)
     company_url: 'https://www.geologia.unam.mx/'
     location: Ciudad de México, MEXICO

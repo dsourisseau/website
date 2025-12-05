@@ -1,9 +1,9 @@
 ---
-title: Oportunidad de Servicio Social y Tesis de Licenciatura
-subtitle: 'Tefrocronología de las Cuencas Mexicanas'
+title: Oportunidad de Servicio Social
+subtitle: 'Tefroestratigrafía de las Cuencas Mexicanas'
 
 # Summary for listings and search engines
-summary: 'Tefrocronología de las Cuencas Mexicanas'
+summary: 'Tefroestratigrafía de las Cuencas Mexicanas'
 
 # Link this post with a project
 #projects: 
@@ -36,7 +36,7 @@ authors:
 - admin
 
 tags:
-- Tesis Licenciatura
+- Servicio Social
 
 categories:
 - Blog
@@ -48,10 +48,10 @@ categories:
 #  url: https://cdn.ftapia.dev/poster/cs21.pdf
 ---
 
-¿Quieres hacer tu servicio social o tesis de licenciatura en Ciencias de la Tierra? ¡Únete a nuestro Proyecto de Tefrocronología y adquiere experiencia en un proyecto innovador!
+¿Quieres hacer tu servicio social en Ciencias de la Tierra? ¡Únete a nuestro Proyecto de Tefroestratigrafía y adquiere experiencia en un proyecto innovador!
 
 ## Únete a Nuestro Equipo
-Buscamos estudiantes motivados y con ganas de aprender para colaborar en proyectos de tefrocronología. Esta disciplina estudia las capas de ceniza volcánica depositadas en los lagos, permitiendo reconstruir la historia eruptiva de los volcanes y comprender mejor su evolución a lo largo del tiempo. La tefrocronología complementa el estudio de los depósitos piroclásticos en tierra alrededor de los volcanes.
+Buscamos estudiantes motivados y con ganas de aprender para colaborar en proyectos de tefroestratigrafía. Esta disciplina estudia las capas de ceniza volcánica depositadas en los lagos, permitiendo reconstruir la historia eruptiva de los volcanes y comprender mejor su evolución a lo largo del tiempo. La tefroestratigrafia complementa el estudio de los depósitos piroclásticos en tierra alrededor de los volcanes.
 
 ## **Proyecto: Tefrocronología de las Cuencas Mexicanas**
 Tareas a Realizar:

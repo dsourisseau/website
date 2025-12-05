@@ -143,6 +143,19 @@ item:
   title: Seminario del departamento de Procesos Litosféricos del Instituto de Geología
   url: ""
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-05-18"
+  description: ""
+  organization: Ciudad de México, MEXICO
+  organization_url: ""
+  title: 10° Encuentro con la Tierra
+  url: ""
+
+
+
+
+
 
 
 ---

@@ -132,4 +132,23 @@ item:
   title: Simposio 30 años del Laboratorio Universitario de Geoquímica Isotópica
   url: ""
 
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-10-29"
+  description: "**Conference** - Actividad explosiva del Holoceno del volcan Pico de Orizaba: Una revisión del episodio eruptivo Xilomich."
+  organization: Puerto Vallarta, MEXICO
+  organization_url: ""
+  title: Reunión Anual Unión Geofísica Mexicana 2025
+  url: ""
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-10-29"
+  description: "**Poster** - Tefroestratigrafía de la laguna de Totolcingo, Cuenca Serdán Oriental, México."
+  organization: Puerto Vallarta, MEXICO
+  organization_url: ""
+  title: Reunión Anual Unión Geofísica Mexicana 2025
+  url: ""
+
+
 ---
