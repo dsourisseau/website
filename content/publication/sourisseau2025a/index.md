@@ -16,7 +16,7 @@ authors:
   - González-Hernández G.
   
 author_notes: []
-publication: Journal of Volcanology and Geothermal Tesearch
+publication: Journal of Volcanology and Geothermal Research
 summary: ""
 url_dataset: ""
 url_project: ""
