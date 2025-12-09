@@ -32,7 +32,7 @@ image:
   caption: "..."
   focal_point: ""
   preview_only: false
-date: 2020-07-03
+date: 2025-12-01
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
