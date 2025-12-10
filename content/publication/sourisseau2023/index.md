@@ -6,17 +6,17 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Sourisseau, D., Arce J.L., Macias, J.L., Sosa Ceballos, G., Garcia Tenorio, F., Ramón Avellán, D., Saucedo Girón, R., Sánchez Nuñez J.M., and Ocampo Díaz, Y.Z.E
+  - Sourisseau, D., Arce, J.L., Macías, J.L., Sosa-Ceballos, G., Garcia-Tenorio, F., Avellán, D.R., Saucedo-Girón, R., Sánchez-Nuñez J.M., and Ocampo-Díaz, Y.Z.E
 
   #- admin
   - Arce J.L.
-  - Macias J.L.
-  - Sosa Ceballos, G.
-  - Garcia Tenorio F.
-  - Ramón Avellan D.
-  - Saucedo Girón R.
-  - Sánchez Nuñez J.M.
-  - Ocampo Díaz Y.Z.E.
+  - Macías J.L.
+  - Sosa-Ceballos, G.
+  - Garcia-Tenorio F.
+  - Avellán D.R.
+  - Saucedo-Girón R.
+  - Sánchez-Nuñez J.M.
+  - Ocampo-Díaz Y.Z.E.
   
 author_notes: []
 publication: Journal of Volcanology and Geothermal Research
