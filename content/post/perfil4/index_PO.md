@@ -49,17 +49,16 @@ categories:
 ---
 
 
-## Pico de Orizaba
 * Pico de Orizaba, also known as Citlaltépetl, is an andesitic-dacitic stratovolcano located on the boundary between Veracruz and Puebla in the eastern part of the Trans-Mexican Volcanic Belt.
-
+<br>
 * Pico de Orizaba is the highest volcano in Mexico and the third-highest peak in North America, rising to 5,636 meters above sea level.
-
+<br>
 * The geological evolution of Pico de Orizaba has been divided into three main stages: (1) construction and subsequent collapse of the Torrecillas volcano (650–210 ka); (2) construction of the Espolón de Oro volcano on the remnants of the Torrecillas edifice, and subsequent collapse of the edifice (210–16.5 ka) (Carrasco-Núñez et al., 1993); and (3) development of the present-day Citlaltépetl volcano on the remnants of the Espolón de Oro volcano (13 ka to present).
-
+<br>
 * The eruptive history of Citlaltépetl (13 ka to present) was marked by repeated dome growth and collapse, Vulcanian and Plinian explosive activity, and effusive eruptions that produced a sequence of dacitic lava flows interlayered with andesitic to dacitic pyroclastic flow and fallout deposits.
-
+<br>
 * Although currently quiescent, Pico de Orizaba is considered an active volcano with potential for future activity. 
-
+<br>
 * The symmetrical cone, extensive glacial features, and well-preserved summit crater make Pico de Orizaba one of the most iconic volcano of Mexico.
 
 <img src="/content/post/perfil4/Mapa_Afloramientos_Pico.png" alt="Location of the Pico de Orizaba volcano">
