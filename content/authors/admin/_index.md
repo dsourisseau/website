@@ -54,7 +54,7 @@ During my Ph.D., I investigated the post-caldera pyroclastic activity of La Prim
 
 Afterwards, I analyzed the geochemical composition of the post-caldera pyroclastic units to understand the magmatic processes responsible for the generation of La Primavera magmas (Sourisseau et al., 2023). 
 
-During my last work on LP, I studied the deposit of an eruption that occured some 6.4 ka at Colli dome, the youngest volcano of the La Primavera caldera complex (Sourisseau et al., in press).
+My last work on LP focused on the deposit of an eruption that occured some 6.4 ka at Colli dome, the youngest volcano of the La Primavera caldera complex (Sourisseau et al., in press).
 
 ------
 
@@ -95,11 +95,11 @@ My present research focus on:
 
 <ul>
 
-<li> <div style="text-align: justify"> Reconstruction of volcanic histories by analyzing the relationships between pyroclastic deposits and lava flows, as well as through componentry analysis, geochemistry, and radiometric dating.
+<li> <div style="text-align: justify"> **Reconstruction of volcanic histories** by analyzing the relationships between pyroclastic deposits and lava flows, as well as through componentry analysis, geochemistry, and radiometric dating.
 
-<li> <div style="text-align: justify"> Reconstruction of past pyroclastic eruptions to better understand their dynamics and impacts.
+<li> <div style="text-align: justify"> **Reconstruction of past pyroclastic eruptions** to better understand their dynamics and impacts.
 
-<li> <div style="text-align: justify"> Identification, description, and correlation of tephra deposits from lacustrine, marine, and glacial environments (e.g., DSDP, ODP, and IODP expeditions) with their source volcanoes. This work aims to establish detailed eruption frequency records, refine our understanding of large-magnitude volcanic events, and enhance correlations with paleoenvironmental archives.
+<li> <div style="text-align: justify"> **Identification, description, and correlation of tephra deposits from lacustrine, marine, and glacial environments (e.g., DSDP, ODP, and IODP expeditions) with their source volcanoes.** This work aims to establish detailed eruption frequency records, refine our understanding of large-magnitude volcanic events, and enhance correlations with paleoenvironmental archives.
 
 </ul>
 
