@@ -6,7 +6,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Sourisseau, D., Arce J.L., Macías, J.L., Beramendi-Orosco L.E., Carrillo-Mondragon J.J., and González-Hernández G.
+  - Sourisseau, D., Arce, J.L., Macías, J.L., Beramendi-Orosco, L.E., Carrillo-Mondragon, J.J., and González-Hernández, G.
 
   #- admin
   - Arce J.L.
