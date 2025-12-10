@@ -52,16 +52,27 @@ highlight_name: false
 
 During my Ph.D., I investigated the post-caldera pyroclastic activity of La Primavera, a rhyolitic caldera ubicated in the western part of the TMVB in Mexico. Through detailed field observations, grain size and componentry analysis, geochemical studies, and U/Th radiometric dating, I identified and correlated the deposits of 14 explosive eruptions with their source volcanoes within the caldera. By integrating stratigraphic relationships between pyroclastic deposits and lava flows, new radiometric ages, and geochemical data, I refined the evolutionary model of the volcanic complex (Sourisseau et al., 2020). 
 
-Afterwards, I analyzed the geochemical composition of post-caldera pyroclastic units to gain insights into the magmatic processes responsible for the generation of La Primavera magmas (Sourisseau et al., 2023). Finally, I studied the deposit of an eruption that occured some 6.4 ka at Colli dome, the youngest volcano of the La Primavera caldera complex (Sourisseau et al., in press).
+Afterwards, I analyzed the geochemical composition of the post-caldera pyroclastic units to understand the magmatic processes responsible for the generation of La Primavera magmas (Sourisseau et al., 2023). 
+
+During my last work on LP, I studied the deposit of an eruption that occured some 6.4 ka at Colli dome, the youngest volcano of the La Primavera caldera complex (Sourisseau et al., in press).
 
 ------
 
-My recent research aims to reconstruct the eruptive history of Pico de Orizaba, an andesitic-dacitic stratovolcano in eastern TMVB, Mexico. I analyzed the Xilomich pyroclastic sequence, which includes scoria-and-ash and block-and-ash flows deposited south of the volcano between 8,980 and 8,170 years BP (Sourisseau et al., 2025).
+During the last few years I have been working on the Pico de Orizaba volcano, an andesitic-dacitic stratovolcano in eastern Trans-Mexico Volcanic Belt, Mexico.
 
-I am currently studying the deposits of the Loma Grande and Texmola pyroclastic sequences, which were emplaced between 6,200 and 1,810 years BP, along with reconstructing the pyroclastic fall eruptions of the volcano.
+My present research aims to reconstruct the eruptive history of the volcano, through the description of the pyroclastic flow and pyroclastic fall deposits deposited west and south of the volcano.
 
-I am also creating a database of geochemical data from Mexican pyroclastic fall eruptions. This database will include published information along with new microprobe and LA-ICP-MS analyses to detail the major and trace element compositions of glass in pumice and scoria fragments. Its purpose is to help correlate tephra found in lake and marine sediments with eruptions from Mexican volcanoes such as Popocatépetl, Nevado de Toluca, La Malinche, Tacana, El Chichón, Colima, Pico de Orizaba, etc.
+I analyzed the Xilomich pyroclastic sequence, a sequence of scoria-and-ash and block-and-ash flows deposited between 8,980 and 8,170 years BP (Sourisseau et al., 2025).
 
+I am currently studying the deposits of the Loma Grande and Texmola pyroclastic sequences, deposits that were emplaced between 6,200 and 1,810 years BP, along with a reconstruction of some of the oldest  pyroclastic fall units of the volcano.
+
+------
+
+In the last few months, I have be granted founding to create a database of geochemical data from Mexican pyroclastic fall eruptions (SECIHTI CBF-2025-I-1574).
+
+This database will include published information along with new microprobe and LA-ICP-MS analyses to detail the major and trace element compositions of glass in pumice and scoria fragments. 
+
+This database will allow the correlation of tephras from lake and marine sediments with the deposits of pyroclastic fall eruptions from Mexican volcanoes (Popocatépetl, Nevado de Toluca, La Malinche, Tacana, El Chichón, Colima, Pico de Orizaba, etc).
 
 <br /> <br /> 
 
