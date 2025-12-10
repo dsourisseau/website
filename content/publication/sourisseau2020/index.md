@@ -2,7 +2,7 @@
 
 abstract: <p align="justify">  </p>
 
-url_pdf: "Sourisseauetal.2020_FINAL_VERSION.pdf"
+url_pdf: ""
 publication_types:
   - "2"
 authors:
@@ -36,7 +36,7 @@ image:
   preview_only: false
 date: 2020-07-03
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2020-07-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
