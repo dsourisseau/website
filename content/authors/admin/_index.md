@@ -68,11 +68,11 @@ I am currently studying the deposits of the Loma Grande and Texmola pyroclastic 
 
 ------
 
-In the last few months, I have be granted founding to create a database of geochemical data from Mexican pyroclastic fall eruptions (SECIHTI CBF-2025-I-1574).
+I have recently be granted founding to create a database of geochemical data from Mexican pyroclastic fall eruptions (SECIHTI CBF-2025-I-1574).
 
 This database will include published information along with new microprobe and LA-ICP-MS analyses to detail the major and trace element compositions of glass in pumice and scoria fragments. 
 
-This database will allow the correlation of tephras from lake and marine sediments with the deposits of pyroclastic fall eruptions from Mexican volcanoes (Popocatépetl, Nevado de Toluca, La Malinche, Tacana, El Chichón, Colima, Pico de Orizaba, etc).
+This database will allow the correlation of tephras from lake and marine sediments with the deposits of pyroclastic fall eruptions from Mexican volcanoes (Popocatépetl, Nevado de Toluca, La Malinche, Tacana, El Chichón, Colima, Pico de Orizaba, etc), and help improve the reconstruction of the Mexican volcanoes eruptive histories.
 
 <br /> <br /> 
 
