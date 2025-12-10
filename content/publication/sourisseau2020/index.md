@@ -6,16 +6,16 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Sourisseau, D., Macias, J.L., Garcia Tenorio, F., Ramón Avellán, D., Saucedo Girón, R., Bernal, J.P., Arce Saldaña J.L., and Tinoco Murillo, Z
+  - Sourisseau, D., Macías, J.L., Garcia-Tenorio, F., Avellán, D.R., Saucedo-Girón, R., Bernal, J.P., Arce, J.L., and Tinoco-Murillo, Z
 
   #- admin
   - Macias J.L.
-  - Garcia Tenorio F.
-  - Ramón Avellan D.
-  - Saucedo Girón R.
+  - Garcia-Tenorio F.
+  - Avellán D.R.
+  - Saucedo-Girón R.
   - Bernal J.P.
-  - Arce Saldaña J.L.
-  - Tinoco Murillo Z.
+  - Arce J.L.
+  - Tinoco-Murillo Z.
   
 author_notes: []
 publication: Journal of South American Earth Sciences
