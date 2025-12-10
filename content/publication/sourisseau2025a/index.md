@@ -2,7 +2,7 @@
 
 abstract: <p align="justify">  </p>
 
-url_pdf: "Sourisseau_et_al_2025a.pdf"
+url_pdf: ""
 publication_types:
   - "2"
 authors:
@@ -34,7 +34,7 @@ image:
   preview_only: false
 date: 2025-12-01
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2025-12-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
