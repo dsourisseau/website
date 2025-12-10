@@ -92,7 +92,6 @@ LP consists of lavas, domes, and volcanoes emplaced between 143.5 and 25.5 ka, b
 
 
 
-
 ## **Genesis and evolution of the LP post-caldera magmas**
 
 Based on the major, trace, LREE, and isotopic compositions of the juvenile fragments from the post-caldera pyroclastic units, four compositional groups were identified:
@@ -105,21 +104,13 @@ Based on the major, trace, LREE, and isotopic compositions of the juvenile fragm
 <br>
 * (4) GP to A pyroclastic units (high-LREE and high-Zr). 
 
-
 A three-step model was proposed to explain the genesis of the post-caldera magmas:
 <br>
-* (1) Injection of a calc-alkaline subduction-related melt modified by an OIB mantle-derived component (e.g., the Gachupín basaltic-andesite) into the magmatic chambers and generation of at least two crystal mushes, one formed from crystallization of a mantle-derived magma (i.e, Gachupín), and the other from a differentiated residual liquid derived from the same mantle-derived magma,
+* Phase 1: Injection of a calc-alkaline subduction-related melt modified by an OIB mantle-derived component (e.g., the Gachupín basaltic-andesite) into the magmatic chambers and generation of at least two crystal mushes, one formed from crystallization of a mantle-derived magma (i.e, Gachupín), and the other from a differentiated residual liquid derived from the same mantle-derived magma,
 <br>
-* (2) Formation of the REE-poor and REE-rich compositions of the La Primavera magmas by different degrees of partial melting of the crystal mushes,
+* Phase 2: Formation of the REE-poor and REE-rich compositions of the La Primavera magmas by different degrees of partial melting of the crystal mushes,
 <br>
-* (3) Generation of the REE-intermediate compositions of the La Primavera magmas by mixing of the REE-poor and REE-rich melts produced from partial melting of the crystal mushes to generate the LREE and Zr variations of the La Primavera magmas.
-
-
-
-
-
-
-
+* Phase 3: Generation of the REE-intermediate compositions of the La Primavera magmas by mixing of the REE-poor and REE-rich melts produced from partial melting of the crystal mushes to generate the LREE and Zr variations of the La Primavera magmas.
 
 
 
