@@ -6,7 +6,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Sourisseau, D., Arce J.L., Macías, J.L., Avellán D.R., Saucedo-Girón R., and García-tenorio F.
+  - Sourisseau, D., Arce, J.L., Macías, J.L., Avellán, D.R., Saucedo-Girón, R., and García-tenorio, F.
 
   #- admin
   - Arce J.L.
