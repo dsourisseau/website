@@ -61,13 +61,13 @@ LP remains active, as evidenced by geothermal fumaroles and hot springs within t
 ## **Post-caldera pyroclastic stratigraphy**
 Fifteen explosive eruptions occured after the formation of the caldera (Sourisseau et al., 2020):
 
-* <u> *Giant Pumice Horizon (Unit GPH)*<u> - Nejahuete volcano - 86.4 ka 
+* <u> *Giant Pumice Horizon (Unit GPH)*</u> - Nejahuete volcano - 86.4 ka 
 
-* <u>*Units A to D*<u> - Nejahuete volcano - 86.4 to 71.5 ka
+* <u>*Units A to D*</u> - Nejahuete volcano - 86.4 to 71.5 ka
 
-* <u>*Units E to M*<u> - San miguel and Planillas volcanoes - 71.5-68.9 to 44.7 ka
+* <u>*Units E to M*</u> - San miguel and Planillas volcanoes - 71.5-68.9 to 44.7 ka
 
-* <u>*Unit N*<u> - Tajo volcano - 44.7-26.8 ka
+* <u>*Unit N*</u> - Tajo volcano - 44.7-26.8 ka
 
 <img src="/content/post/perfil3/Image1.png" alt="La Primavera post-caldera pyroclastic eruptions">
 
