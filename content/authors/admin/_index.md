@@ -64,7 +64,7 @@ My current research focuses on reconstructing the volcano’s eruptive history t
 
 I have examined the deposits of the Xilomich eruptive episode, a sequence of scoria-and-ash and block-and-ash flows emplaced between 8,980 and 8,170 years BP (Sourisseau et al., 2025).
 
-I am now studying the Loma Grande and Texmola pyroclastic sequences—units deposited between 6,200 and 1,810 years BP—and.
+I am now studying the Loma Grande and Texmola pyroclastic sequences—units deposited between 6,200 and 1,810 years BP.
 
 I am also studying the pyroclastic-fall deposits of the volcano.
 
