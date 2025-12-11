@@ -55,11 +55,11 @@ Pico de Orizaba is the highest volcano in Mexico and the third-highest peak in N
 
 The geological evolution of Pico de Orizaba has been divided into three main stages:
 
-* Phase 1: Construction and subsequent collapse of the Torrecillas volcano (650–210 ka),
+* *Phase 1:* Construction and subsequent collapse of the Torrecillas volcano (650–210 ka),
 
-* Phase 2: Construction of the Espolón de Oro volcano on the remnants of the Torrecillas edifice, and subsequent collapse of the edifice (210–16.5 ka) (Carrasco-Núñez et al., 1993),
+* *Phase 2:* Construction of the Espolón de Oro volcano on the remnants of the Torrecillas edifice, and subsequent collapse of the edifice (210–16.5 ka) (Carrasco-Núñez et al., 1993),
 
-* Phase 3: Development of the **present-day Citlaltépetl volcano** on the remnants of the Espolón de Oro volcano (13 ka to present).
+* *Phase 3:* Development of the **present-day Citlaltépetl volcano** on the remnants of the Espolón de Oro volcano (13 ka to present).
 
 The eruptive history of Citlaltépetl was marked by repeated dome growth and collapse, Vulcanian and Plinian explosive activity, and effusive eruptions that produced a sequence of dacitic lava flows interlayered with andesitic to dacitic pyroclastic flow and fallout deposits.
 
