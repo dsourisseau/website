@@ -62,7 +62,7 @@ Over the past few years, I have been working on Pico de Orizaba, an andesitic–
 
 My current research focuses on reconstructing the volcano’s eruptive history through detailed characterization of the pyroclastic-flow and pyroclastic-fall deposits exposed west and south of the edifice.
 
-I have examined the deposits of the Xilomich eruptive episode, a sequence of scoria-and-ash and block-and-ash flows emplaced between 8,980 and 8,170 years BP (Sourisseau et al., 2025).
+I have described the deposits of the Xilomich eruptive episode, a sequence of scoria-and-ash and block-and-ash flows emplaced between 8,980 and 8,170 years BP (Sourisseau et al., 2025).
 
 I am now studying the Loma Grande and Texmola pyroclastic sequences—units deposited between 6,200 and 1,810 years BP.
 
@@ -72,7 +72,7 @@ I am also studying the pyroclastic-fall deposits of the volcano.
 
 I am developing a geochemical database of Mexican pyroclastic-fall explosive activity (SECIHTI CBF-2025-I-1574). This database will compile previously published information together with new microprobe and LA-ICP-MS analyses of major and trace element compositions of glass in pumice and scoria fragments from pyroclastic-fall deposits of Mexican volcanoes.
 
-The resulting database will support the correlation of tephras found in lake and marine sediment records with pyroclastic-fall deposits from Mexican volcanoes (e.g., Popocatépetl, Nevado de Toluca, La Malinche, Tacaná, El Chichón, Colima, Pico de Orizaba, among others). This, in turn, will contribute to improving the reconstruction of their eruptive histories.
+The resulting database will support the correlation of tephras found in lake and marine sediment records with pyroclastic-fall deposits from Mexican volcanoes (e.g., Popocatépetl, Nevado de Toluca, La Malinche, Tacaná, Chichón, Colima, Pico de Orizaba, among others). This, in turn, will contribute to improving the reconstruction of their eruptive histories.
 
 <br /> <br /> 
 
