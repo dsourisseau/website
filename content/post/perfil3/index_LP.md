@@ -48,11 +48,11 @@ categories:
 #  url: https://cdn.ftapia.dev/poster/cs21.pdf
 ---
 
-La Primavera (LP) is a Quaternary rhyolitic volcanic complex located in the northwestern sector of the Trans-Mexican Volcanic Belt, on the western outskirts of Guadalajara—the third most populated city in Mexico (5.2 million inhabitants; INEGI, 2020).
+La Primavera (LP) is a Quaternary rhyolitic volcanic complex located in the northwestern sector of the Trans-Mexican Volcanic Belt, on the western outskirts of Guadalajara, the third most populated city in Mexico (5.2 million inhabitants; INEGI, 2020).
 
 LP consists of an 11 km-diameter caldera formed during the ~95 ka Tala Ignimbrite eruption, as well as a series of lavas, domes, and stratovolcanoes emplaced inside the caldera, along its rim, and beyond the caldera ring fault between 93 and 25 ka.
 
-LP remains active, as evidenced by geothermal fumaroles and hot springs within the caldera—particularly along the Río Caliente and south of the Nejahuete volcano—and also south of the San Miguel and Planillas volcanoes.
+LP remains active, as evidenced by geothermal fumaroles and hot springs within the caldera, particularly along the Río Caliente and south of the Nejahuete volcano, and also south of the San Miguel and Planillas volcanoes.
 
 <img src="/content/post/perfil3/LP_Localisation.jpg" alt="Localisation of the La Primavera caldera">
 
@@ -80,13 +80,17 @@ Fifteen explosive eruptions occured after the formation of the caldera:
 ## **Caldera evolution**
 LP consists of lavas, domes, and volcanoes emplaced between 143.5 and 25.5 ka, both inside the caldera and around its rim. Post-caldera volcanism occurred between ~95 and 25.5 ka and produced 2 lavas, 22 domes, and 5 composite volcanoes (Sourisseau et al., 2020; Macías et al., submitted):
 
-<u>Between 95 and 86.4 ka:</u> The base of the Nejahuete volcano was formed along the Cerrito Colorado partial ring fault, while several domes were emplaced on the main caldera ring fault (Piñar de la Venta, Cuartilla, Chapulín, and Tule). During this interval, the Ánimas and Puerta domes, as well as the basal portion of the San Miguel volcano, were also emplaced.
+* *Between 95 and 86.4 ka:*
+The base of the Nejahuete volcano was formed along the Cerrito Colorado partial ring fault, while several domes were emplaced on the main caldera ring fault (Piñar de la Venta, Cuartilla, Chapulín, and Tule). During this interval, the Ánimas and Puerta domes, as well as the basal portion of the San Miguel volcano, were also emplaced.
 
-<u>Between 86.4 and 69 ka:</u> The Cerro Alto dome was emplaced along the Cerrito Colorado partial ring fault. Additional domes were formed on the caldera ring fault (Lobera, Ixtahuatonte, Cuesta, Culebreado, and Pedernal). During this phase, the northern and southern San Miguel lavas were also emplaced.
+* *Between 86.4 and 69 ka:*
+The Cerro Alto dome was emplaced along the Cerrito Colorado partial ring fault. Additional domes were formed on the caldera ring fault (Lobera, Ixtahuatonte, Cuesta, Culebreado, and Pedernal). During this phase, the northern and southern San Miguel lavas were also emplaced.
 
-<u>Between 62 and 44.7 ka:</u> Formation of the Llano Grande lava and Planillas volcano south of the caldera.
+* *Between 62 and 44.7 ka:*
+Formation of the Llano Grande lava and Planillas volcano south of the caldera.
 
-<u>Between 32 and 25 ka:</u> Formation of the Tajo volcano and Colli dome.
+* *Between 32 and 25 ka:*
+Formation of the Tajo volcano and Colli dome.
 
 <img src="/content/post/perfil3/POST_Fig_12.jpg" alt="Sketch showing the relations between the La Primavera caldera pyroclastic units and volcanoes.">
 
@@ -96,16 +100,18 @@ LP consists of lavas, domes, and volcanoes emplaced between 143.5 and 25.5 ka, b
 
 Based on the major, trace, LREE, and isotopic compositions of the juvenile fragments from the post-caldera pyroclastic units, four compositional groups were identified:
 
-* (1) Colli dome (low-LREE and low-Zr),
-* (2) E to N pyroclastic units (low-LREE and intermediate-Zr),
-* (3) B to D pyroclastic units,
-* (4) GP to A pyroclastic units (high-LREE and high-Zr). 
+* *Group 1:* Colli dome (low-LREE and low-Zr),
+* *Group 2:* E to N pyroclastic units (low-LREE and intermediate-Zr),
+* *Group 3:* B to D pyroclastic units,
+* *Group 4:* GP to A pyroclastic units (high-LREE and high-Zr). 
 
 A three-step model was proposed to explain the genesis of the post-caldera magmas:
 
-* Phase 1: Injection of a calc-alkaline subduction-related melt modified by an OIB mantle-derived component (e.g., the Gachupín basaltic-andesite) into the magmatic chambers and generation of at least two crystal mushes, one formed from crystallization of a mantle-derived magma (i.e, Gachupín), and the other from a differentiated residual liquid derived from the same mantle-derived magma,
-* Phase 2: Formation of the REE-poor and REE-rich compositions of the La Primavera magmas by different degrees of partial melting of the crystal mushes,
-* Phase 3: Generation of the REE-intermediate compositions of the La Primavera magmas by mixing of the REE-poor and REE-rich melts produced from partial melting of the crystal mushes to generate the LREE and Zr variations of the La Primavera magmas.
+* *Phase 1:* Injection of a calc-alkaline subduction-related melt modified by an OIB mantle-derived component (e.g., the Gachupín basaltic-andesite) into the magmatic chambers and generation of at least two crystal mushes, one formed from crystallization of a mantle-derived magma (i.e, Gachupín), and the other from a differentiated residual liquid derived from the same mantle-derived magma,
+
+* *Phase 2:* Formation of the REE-poor and REE-rich compositions of the La Primavera magmas by different degrees of partial melting of the crystal mushes,
+
+* *Phase 3:* Generation of the REE-intermediate compositions of the La Primavera magmas by mixing of the REE-poor and REE-rich melts produced from partial melting of the crystal mushes to generate the LREE and Zr variations of the La Primavera magmas.
 
 
 
@@ -118,10 +124,13 @@ Juvenile products are rhyolitic in composition (76.4 – 77.8 wt.% SiO2) with tr
 
 The proximal stratigraphy of Unit O records four distinct eruptive phases:
 
-* Phase 1 (Layer A): Partial column collapse of an eruptive column generated from repeated phreatomagmatic explosions,
-* Phase 2 (Layer B): Development of an unsteady eruptive column with repeated partial collapses and simultaneous phreatomagmatic explosions,
-* Phase 3 (Layers C–D):Repeated column collapses and simultaneous phreatomagmatic explosions,
-* Phase 4 (Layer E): Development of an eruptive column from repeated phreatomagmatic explosions with partial collapses. 
+* *Phase 1 (Layer A):* Partial column collapse of an eruptive column generated from repeated phreatomagmatic explosions,
+
+* *Phase 2 (Layer B):* Development of an unsteady eruptive column with repeated partial collapses and simultaneous phreatomagmatic explosions,
+
+* *Phase 3 (Layers C–D):* Repeated column collapses and simultaneous phreatomagmatic explosions,
+
+* *Phase 4 (Layer E):* Development of an eruptive column from repeated phreatomagmatic explosions with partial collapses. 
 
 <img src="/content/post/perfil3/UO_Fig_4.jpg" alt="Images of Unit O">
 
