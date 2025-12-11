@@ -1,6 +1,6 @@
 ---
 title: La Primavera caldera
-subtitle: 'La Primavera caldera'
+subtitle: ''
 
 # Summary for listings and search engines
 summary: 'La Primavera caldera'
@@ -48,11 +48,11 @@ categories:
 #  url: https://cdn.ftapia.dev/poster/cs21.pdf
 ---
 
-La Primavera (LP) is a Quaternary rhyolitic volcanic complex located in the northwestern part of the Trans-Mexican Volcanic Belt, on the western outskirts of Guadalajara, the third most populated city of Mexico (5.2 million people, INEGI 2020).
+La Primavera (LP) is a Quaternary rhyolitic volcanic complex located in the northwestern sector of the Trans-Mexican Volcanic Belt, on the western outskirts of Guadalajara—the third most populated city in Mexico (5.2 million inhabitants; INEGI, 2020).
 
-LP is composed of a 11 km-diameter caldera formed during the ~95 ka Tala Ignimbrite eruption, and by lavas, domes, and stratovolcanoes emplaced inside, on the caldera rim, and outside the caldera ring fault between 93 and 25 ka.
+LP consists of an 11 km-diameter caldera formed during the ~95 ka Tala Ignimbrite eruption, as well as a series of lavas, domes, and stratovolcanoes emplaced inside the caldera, along its rim, and beyond the caldera ring fault between 93 and 25 ka.
 
-LP is still active as evidenced by geothermal fumaroles and hot springs, inside the caldera in the Rio Caliente and south of the Nejahuete volcano, and south of the San Miguel and Planillas volcanoes.
+LP remains active, as evidenced by geothermal fumaroles and hot springs within the caldera—particularly along the Río Caliente and south of the Nejahuete volcano—and also south of the San Miguel and Planillas volcanoes.
 
 <img src="/content/post/perfil3/LP_Localisation.jpg" alt="Localisation of the La Primavera caldera">
 
@@ -78,11 +78,11 @@ Fifteen explosive eruptions occured after the formation of the caldera:
 
 
 ## **Caldera evolution**
-LP consists of lavas, domes, and volcanoes emplaced between 143.5 and 25.5 ka, both inside and outside the caldera rim. Post-caldera volcanism occurred between ~95 and 25.5 ka, erupting 2 lavas, 22 domes, and 5 composite volcanoes (Sourisseau et al., 2020; Macías et al., submitted):
+LP consists of lavas, domes, and volcanoes emplaced between 143.5 and 25.5 ka, both inside the caldera and around its rim. Post-caldera volcanism occurred between ~95 and 25.5 ka and produced 2 lavas, 22 domes, and 5 composite volcanoes (Sourisseau et al., 2020; Macías et al., submitted):
 
-<u>Between 95 and 86.4 ka:</u> The base of the Nejahuete volcano was formed on the Cerrito Colorado partial ring-fault, while several domes were emplaced on the caldera ring-fault (Piñar de la Venta, Cuartilla, Chapulin, and Tule). The Animas, Puerta, and the base of the San Miguel volcano were also emplaced during this phase.
+<u>Between 95 and 86.4 ka:</u> The base of the Nejahuete volcano was formed along the Cerrito Colorado partial ring fault, while several domes were emplaced on the main caldera ring fault (Piñar de la Venta, Cuartilla, Chapulín, and Tule). During this interval, the Ánimas and Puerta domes, as well as the basal portion of the San Miguel volcano, were also emplaced.
 
-<u>Between 86.4 and 69 ka:</u> The Cerro Alto dome was emplaced on the Cerrito Colorado partial ring-fault. Several domes were also emplaced on the caldera ring-fault (Lobera, Ixtahuatonte, Cuesta, Culebreado, and Pedernal). Formation of the northern and southern lavas of San Miguel.
+<u>Between 86.4 and 69 ka:</u> The Cerro Alto dome was emplaced along the Cerrito Colorado partial ring fault. Additional domes were formed on the caldera ring fault (Lobera, Ixtahuatonte, Cuesta, Culebreado, and Pedernal). During this phase, the northern and southern San Miguel lavas were also emplaced.
 
 <u>Between 62 and 44.7 ka:</u> Formation of the Llano Grande lava and Planillas volcano south of the caldera.
 
