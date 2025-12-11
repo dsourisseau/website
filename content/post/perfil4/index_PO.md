@@ -1,6 +1,6 @@
 ---
 title: Pico de Orizaba stratovolcano
-subtitle: 'Pico de Orizaba stratovolcano'
+subtitle: ''
 
 # Summary for listings and search engines
 summary: 'Pico de Orizaba stratovolcano'
