@@ -59,13 +59,15 @@ LP remains active, as evidenced by geothermal fumaroles and hot springs within t
 
 
 ## **Post-caldera pyroclastic stratigraphy**
-Fifteen explosive eruptions occured after the formation of the caldera:
+Fifteen explosive eruptions occured after the formation of the caldera (Sourisseau et al., 2020):
 
-* The Giant Pumice Horizon (Unit GPH - 86.4 ka) and the A-D pyroclastic units were originated from the Nejahuete volcano (86.4 to 71.5 ka) located in the center of the caldera on the Cerrito Colorado circular partial-ring-fault.
+* <u> *Giant Pumice Horizon (Unit GPH)*<u> - Nejahuete volcano - 86.4 ka 
 
-* Units E to M were originated from the San miguel and Planillas volcanoes, located on a fault south of the caldera (71.5-68.9 to 44.7 ka).
+* <u>*Units A to D*<u> - Nejahuete volcano - 86.4 to 71.5 ka
 
-* Unit N came from the Tajo volcano (44.7-26.8 ka) (Sourisseau et al., 2020).
+* <u>*Units E to M*<u> - San miguel and Planillas volcanoes - 71.5-68.9 to 44.7 ka
+
+* <u>*Unit N*<u> - Tajo volcano - 44.7-26.8 ka
 
 <img src="/content/post/perfil3/Image1.png" alt="La Primavera post-caldera pyroclastic eruptions">
 
@@ -80,16 +82,16 @@ Fifteen explosive eruptions occured after the formation of the caldera:
 ## **Caldera evolution**
 LP consists of lavas, domes, and volcanoes emplaced between 143.5 and 25.5 ka, both inside the caldera and around its rim. Post-caldera volcanism occurred between ~95 and 25.5 ka and produced 2 lavas, 22 domes, and 5 composite volcanoes (Sourisseau et al., 2020; Macías et al., submitted):
 
-* *Between 95 and 86.4 ka:*
+* <u>*Between 95 and 86.4 ka:*</u>
 The base of the Nejahuete volcano was formed along the Cerrito Colorado partial ring fault, while several domes were emplaced on the main caldera ring fault (Piñar de la Venta, Cuartilla, Chapulín, and Tule). During this interval, the Ánimas and Puerta domes, as well as the basal portion of the San Miguel volcano, were also emplaced.
 
-* *Between 86.4 and 69 ka:*
+* <u>*Between 86.4 and 69 ka:*</u>
 The Cerro Alto dome was emplaced along the Cerrito Colorado partial ring fault. Additional domes were formed on the caldera ring fault (Lobera, Ixtahuatonte, Cuesta, Culebreado, and Pedernal). During this phase, the northern and southern San Miguel lavas were also emplaced.
 
-* *Between 62 and 44.7 ka:*
+* <u>*Between 62 and 44.7 ka:*</u>
 Formation of the Llano Grande lava and Planillas volcano south of the caldera.
 
-* *Between 32 and 25 ka:*
+* <u>*Between 32 and 25 ka:*</u>
 Formation of the Tajo volcano and Colli dome.
 
 <img src="/content/post/perfil3/POST_Fig_12.jpg" alt="Sketch showing the relations between the La Primavera caldera pyroclastic units and volcanoes.">
@@ -100,18 +102,18 @@ Formation of the Tajo volcano and Colli dome.
 
 Based on the major, trace, LREE, and isotopic compositions of the juvenile fragments from the post-caldera pyroclastic units, four compositional groups were identified:
 
-* *Group 1:* Colli dome (low-LREE and low-Zr),
-* *Group 2:* E to N pyroclastic units (low-LREE and intermediate-Zr),
-* *Group 3:* B to D pyroclastic units,
-* *Group 4:* GP to A pyroclastic units (high-LREE and high-Zr). 
+* <u>*Group 1:*</u> Colli dome (low-LREE and low-Zr),
+* <u>*Group 2:*</u> E to N pyroclastic units (low-LREE and intermediate-Zr),
+* <u>*Group 3:*</u> B to D pyroclastic units,
+* <u>*Group 4:*</u> GP to A pyroclastic units (high-LREE and high-Zr). 
 
 A three-step model was proposed to explain the genesis of the post-caldera magmas:
 
-* *Phase 1:* Injection of a calc-alkaline subduction-related melt modified by an OIB mantle-derived component (e.g., the Gachupín basaltic-andesite) into the magmatic chambers and generation of at least two crystal mushes, one formed from crystallization of a mantle-derived magma (i.e, Gachupín), and the other from a differentiated residual liquid derived from the same mantle-derived magma,
+* <u>*Phase 1:*</u> Injection of a calc-alkaline subduction-related melt modified by an OIB mantle-derived component (e.g., the Gachupín basaltic-andesite) into the magmatic chambers and generation of at least two crystal mushes, one formed from crystallization of a mantle-derived magma (i.e, Gachupín), and the other from a differentiated residual liquid derived from the same mantle-derived magma,
 
-* *Phase 2:* Formation of the REE-poor and REE-rich compositions of the La Primavera magmas by different degrees of partial melting of the crystal mushes,
+* <u>*Phase 2:*</u> Formation of the REE-poor and REE-rich compositions of the La Primavera magmas by different degrees of partial melting of the crystal mushes,
 
-* *Phase 3:* Generation of the REE-intermediate compositions of the La Primavera magmas by mixing of the REE-poor and REE-rich melts produced from partial melting of the crystal mushes to generate the LREE and Zr variations of the La Primavera magmas.
+* <u>*Phase 3:*</u> Generation of the REE-intermediate compositions of the La Primavera magmas by mixing of the REE-poor and REE-rich melts produced from partial melting of the crystal mushes to generate the LREE and Zr variations of the La Primavera magmas.
 
 
 
@@ -124,13 +126,13 @@ Juvenile products are rhyolitic in composition (76.4 – 77.8 wt.% SiO2) with tr
 
 The proximal stratigraphy of Unit O records four distinct eruptive phases:
 
-* *Phase 1 (Layer A):* Partial column collapse of an eruptive column generated from repeated phreatomagmatic explosions,
+* <u>*Phase 1 (Layer A):*</u> Partial column collapse of an eruptive column generated from repeated phreatomagmatic explosions,
 
-* *Phase 2 (Layer B):* Development of an unsteady eruptive column with repeated partial collapses and simultaneous phreatomagmatic explosions,
+* <u>*Phase 2 (Layer B):*</u> Development of an unsteady eruptive column with repeated partial collapses and simultaneous phreatomagmatic explosions,
 
-* *Phase 3 (Layers C–D):* Repeated column collapses and simultaneous phreatomagmatic explosions,
+* <u>*Phase 3 (Layers C–D):*</u> Repeated column collapses and simultaneous phreatomagmatic explosions,
 
-* *Phase 4 (Layer E):* Development of an eruptive column from repeated phreatomagmatic explosions with partial collapses. 
+* <u>*Phase 4 (Layer E):*</u> Development of an eruptive column from repeated phreatomagmatic explosions with partial collapses. 
 
 <img src="/content/post/perfil3/UO_Fig_4.jpg" alt="Images of Unit O">
 
