@@ -103,4 +103,7 @@ My present research focus on:
 
 </ul>
 
+
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_DELPHINE_SOURISSEAU_ENGLISH.pdf" "newtab" >}}resumé{{< /staticref >}}.
